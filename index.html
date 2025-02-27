@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <title>WiseMount Properties | Your Trusted Partner in Real Estate</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/templatemo-villa-agency.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+<!--
+
+TemplateMo 591 villa agency
+
+https://templatemo.com/tm-591-villa-agency
+
+-->
+<style>
+  .section-heading {
+    margin-bottom: 30px; /* Add margin to prevent overlapping */
+  }
+  .col-lg-12 {
+    margin-top: 30px; /* Add margin to prevent overlapping */
+  }
+
+
+</style>
+  </head>
+
+<body>
+
+  <!-- ***** Preloader Start ***** -->
+  <div id="js-preloader" class="js-preloader">
+    <div class="preloader-inner">
+      <span class="dot"></span>
+      <div class="dots">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </div>
+  <!-- ***** Preloader End ***** -->
+
+  <div class="sub-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-8">
+          <ul class="info">
+            <li><i class="fa fa-envelope"></i> wisemount@outlook.com</li>
+            <li><i class="fa fa-map"></i> 245/12 Rail Extn Road , Tenkasi 627811</li>
+          </ul>
+        </div>
+        <!-- <div class="col-lg-4 col-md-4">
+          <ul class="social-links">
+            <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="https://x.com/minthu" target="_blank"><i class="fab fa-twitter"></i></a></li>
+            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+          </ul>
+        </div> -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ***** Header Area Start ***** -->
+  <header class="header-area header-sticky">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="main-nav">
+                    <!-- ***** Logo Start ***** -->
+                    <a href="index.html" class="logo">
+                        <h1>WiseMount</h1>
+                    </a>
+                    <!-- ***** Logo End ***** -->
+                    <!-- ***** Menu Start ***** -->
+                    <ul class="nav">
+                      <li><a href="index.html" class="active">Home</a></li>
+                      <li><a href="#" data-target="propertyList">Properties</a></li>
+                      <li><a href="#" data-target="propertyList">Property Details</a></li>
+                      <li><a href="#" data-target="contact-form">Contact Us</a></li>
+                     <!--  <li><a href="#"><i class="fa fa-calendar"></i> Schedule a visit</a></li> -->
+                    </ul>   
+                    <a class='menu-trigger'>
+                        <span>Menu</span>
+                    </a>
+                    <!-- ***** Menu End ***** -->
+                </nav>
+            </div>
+        </div>
+    </div>
+  </header>
+  <!-- ***** Header Area End ***** -->
+
+  <script>
+    fetch('properties.json')
+      .then(response => response.json())
+      .then(data => {
+        let propertyList = document.getElementById('property-list');
+        data.forEach(property => {
+          propertyList.innerHTML += `
+            <div class="property-card">
+              <img src="${property.image}" alt="${property.name}">
+              <h3>${property.name}</h3>
+              <p>Location: ${property.location}</p>
+              <p>Price: ${property.price}</p>
+              <a href="#">View Details</a>
+            </div>
+          `;
+        });
+      });
+  </script>
+  
+  <div class="main-banner">
+    <div class="owl-carousel owl-banner" style="background: linear-gradient(135deg, #a8e063, #56ab2f);"></div>
+      <div class="item item-1">
+      <div class="header-text"></div>
+          <span class="category">Tenkasi,Tirunelveli,Tuticorin,Ramanathapuram,VirudhaNagar,Madurai,Sivagangai<em>Tamil Nadu</em></span>
+          <h2>"Hurry!<br>Secure the Best Land for You in Tamil Nadu!"</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+ 
+<!--featured districts-->
+<style>
+  .accordion-button {
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+  }
+  .accordion-button:hover {
+    background-color: #0056b3;
+  }
+  .accordion-body {
+    background-color: #f8f9fa;
+    border-left: 4px solid #007bff;
+    padding: 15px;
+  }
+  .section-heading h6 {
+    color: #ff5733;
+  }
+  .section-heading h2 {
+    color: #011105;
+  }
+</style>
+<div class="featured section"  style="
+background: url('assets/images/bg-img.jpg') no-repeat center center / cover;
+padding: 50px 0;
+min-height: 300px; /* Ensures the section is visible */
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;"> 
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12"></div>
+        <div class="section-heading" style="margin-bottom: 30px;">
+          <h3>| Buy Land, Build Dreams</h3>
+          <h2>Explore Prime Land Opportunities Across Tamil Nadu!"</h2>
+        </div>
+        <div class="accordion" id="accordionExample">
+          <div class="row">
+            <div class="col-lg-6 col-md-6">
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTenkasi">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTenkasi" aria-expanded="false" aria-controls="collapseTenkasi">
+                    Tenkasi - Nature's Gateway
+                  </button>
+                </h2>
+                <div id="collapseTenkasi" class="accordion-collapse collapse show" aria-labelledby="headingTenkasi" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Invest in <strong>scenic farmlands</strong> and <strong>eco-retreats</strong> near Courtallam waterfalls. Ideal for resorts and organic farming.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTirunelveli">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTirunelveli" aria-expanded="false" aria-controls="collapseTirunelveli">
+                    Tirunelveli - The Land of Prosperity
+                  </button>
+                </h2>
+                <div id="collapseTirunelveli" class="accordion-collapse collapse" aria-labelledby="headingTirunelveli" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Secure lands in <strong>booming industrial hubs</strong> and <strong>agricultural zones</strong>. Excellent growth potential in real estate.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTuticorin">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTuticorin" aria-expanded="false" aria-controls="collapseTuticorin">
+                    Tuticorin - The Port City
+                  </button>
+                </h2>
+                <div id="collapseTuticorin" class="accordion-collapse collapse" aria-labelledby="headingTuticorin" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                  Invest in lands near <strong>India's key seaport</strong>. Ideal for warehousing, logistics, and export businesses.
+                  </div>
+                </div>
+                </div>
+                <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTheni">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTheni" aria-expanded="false" aria-controls="collapseTheni">
+                  Theni - The Land of Cardamom Hills
+                  </button>
+                </h2>
+                <div id="collapseTheni" class="accordion-collapse collapse" aria-labelledby="headingTheni" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                  Invest in <strong>fertile lands</strong> ideal for agriculture and eco-tourism. Known for its scenic beauty and cardamom plantations.
+                  </div>
+                </div></h2>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingVirudhunagar">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseVirudhunagar" aria-expanded="false" aria-controls="collapseVirudhunagar">
+                    Virudhunagar - The Business Hub
+                  </button>
+                </h2>
+                <div id="collapseVirudhunagar" class="accordion-collapse collapse" aria-labelledby="headingVirudhunagar" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    A strategic location for trading and manufacturing, home to leading industries.
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingMadurai">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMadurai" aria-expanded="false" aria-controls="collapseMadurai">
+                    Madurai - The Temple City, Now a Smart City
+                  </button>
+                </h2>
+                <div id="collapseMadurai" class="accordion-collapse collapse" aria-labelledby="headingMadurai" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    An emerging IT and industrial hub with world-class infrastructure.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSivagangai">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSivagangai" aria-expanded="false" aria-controls="collapseSivagangai">
+                    Sivagangai - The Land of Heritage & Agriculture
+                  </button>
+                </h2>
+                <div id="collapseSivagangai" class="accordion-collapse collapse" aria-labelledby="headingSivagangai" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    A perfect blend of history and fertile lands, ideal for agri-based investments.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTrichy">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTrichy" aria-expanded="false" aria-controls="collapseTrichy">
+                    Trichy - The Industrial & Educational Powerhouse
+                  </button>
+                </h2>
+                <div id="collapseTrichy" class="accordion-collapse collapse" aria-labelledby="headingTrichy" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    Ideal for real estate, manufacturing, and logistics investments.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingKancheepuram">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKancheepuram" aria-expanded="false" aria-controls="collapseKancheepuram">
+                    Kancheepuram - The Silk City & Automotive Hub
+                  </button>
+                </h2>
+                <div id="collapseKancheepuram" class="accordion-collapse collapse" aria-labelledby="headingKancheepuram" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    A booming real estate and industrial hotspot near Chennai.
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingDindigul">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDindigul" aria-expanded="false" aria-controls="collapseDindigul">
+                    Dindigul - The Land of Locks & Spices
+                  </button>
+                </h2>
+                <div id="collapseDindigul" class="accordion-collapse collapse" aria-labelledby="headingDindigul" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    A thriving commercial zone known for its lock-making, textile, and spice industries.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> 
+    </div>
+  </div>
+
+
+<!-- End of featured districts-->
+
+<!--Land Features -->
+<style>
+  .feature-box {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  .feature-icon {
+    font-size: 40px;
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+  .feature-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #343a40;
+  }
+  .feature-description {
+    font-size: 14px;
+    color: #6c757d;
+  }
+</style>
+
+<div class="featured section"  style="
+background: url('assets/images/bg-img2.jpg') no-repeat center center / cover;
+padding: 50px 0;
+min-height: 300px; /* Ensures the section is visible */
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;">> 
+  <div class="container">
+    <div class="section-heading text-center" style="margin-bottom: 30px;">
+      <h3>Essential Aspects of Our Land Offerings</h3>
+      <h2>Key Features of Our Land Parcels</h2>
+    </div>
+    <div class="row">
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-box">
+          <i class="feature-icon fas fa-solar-panel"></i>
+          <div class="feature-title">☀️ Solar & Wind Farm Land</div>
+          <div class="feature-description">Perfect for renewable energy projects with optimal sun and wind exposure.</div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-box">
+          <i class="feature-icon fas fa-seedling"></i>
+          <div class="feature-title">🌿 Garden & Plantation Land</div>
+          <div class="feature-description">Ideal for organic farming, plantations, and greenhouses.</div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-box">
+          <i class="feature-icon fas fa-warehouse"></i>
+          <div class="feature-title">🏢 Commercial & Logistics Land</div>
+          <div class="feature-description">Large-scale plots for warehouses, factories, and commercial spaces.</div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-box">
+          <i class="feature-icon fas fa-gem"></i>
+          <div class="feature-title">⛏️ Stone Quarry & Bulk Land</div>
+          <div class="feature-description">Bulk-sized land suitable for mining, stone quarries, and industrial use.</div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-box">
+          <i class="feature-icon fas fa-map-marked-alt"></i>
+          <div class="feature-title">📍 Strategic Location</div>
+          <div class="feature-description">Lands situated in high-growth areas with easy accessibility.</div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-box">
+          <i class="feature-icon fas fa-file-contract"></i>
+          <div class="feature-title">📜 Government Approved</div>
+          <div class="feature-description">Clear titles, RERA registered, and legally verified documents.</div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+    <div class="col-lg-4 col-md-6">
+      <div class="feature-box">
+        <i class="feature-icon fas fa-home"></i>
+        <div class="feature-title">🏡 Residential & Commercial Viability</div>
+        <div class="feature-description">Suitable for housing, commercial projects, or farmland.</div>
+      </div>
+    </div>
+ 
+    <div class="col-lg-4 col-md-6">
+      <div class="feature-box">
+        <i class="feature-icon fas fa-coins"></i>
+        <div class="feature-title">💰 High ROI Potential</div>
+        <div class="feature-description">Appreciation guaranteed in growing regions.</div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+      <div class="feature-box">
+        <i class="feature-icon fas fa-tools"></i>
+        <div class="feature-title">🏗️ Ready-to-Build Land</div>
+        <div class="feature-description">No legal or environmental restrictions.</div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+      <div class="feature-box">
+        <i class="feature-icon fas fa-tractor"></i>
+        <div class="feature-title">🚜 Agricultural Land Availability</div>
+        <div class="feature-description">Fertile land with water access for farming.</div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+      <div class="feature-box">
+        <i class="feature-icon fas fa-bolt"></i>
+        <div class="feature-title">🔌 Infrastructure & Utilities</div>
+        <div class="feature-description">Electricity, water supply, and sewage facilities.</div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+      <div class="feature-box">
+        <i class="feature-icon fas fa-building"></i>
+        <div class="feature-title">🏢 Gated Community Options</div>
+        <div class="feature-description">Security, clubhouses, and premium amenities.</div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+      <div class="feature-box">
+        <i class="feature-icon fas fa-train"></i>
+        <div class="feature-title">🚆 Proximity to Transport Hubs</div>
+        <div class="feature-description">Close to highways, airports, and railway stations.</div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+      <div class="feature-box">
+        <i class="feature-icon fas fa-tree"></i>
+        <div class="feature-title">🌳 Scenic & Eco-Friendly Locations</div>
+        <div class="feature-description">Pollution-free zones with lush greenery.</div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+      <div class="feature-box">
+        <i class="feature-icon fas fa-th-large"></i>
+        <div class="feature-title">🏘 Custom Plot Sizes</div>
+        <div class="feature-description">Small, medium, and large plots available as per need.</div>
+      </div>
+    </div>
+   </div>
+</div>
+</div>
+<!--End of bullet points-->
+
+
+<!--BEGIN of funfacts  counter-->
+  <style>
+    .fun-facts {
+      background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+      padding: 50px 0;
+      text-align: center;
+    }
+    .counter {
+      background: #ffffff;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease-in-out;
+      border: 2px solid #ff5733;
+      margin: 10px;
+    }
+    .counter:hover {
+      transform: translateY(-5px);
+    }
+    .count-title {
+      font-size: 36px;
+      font-weight: bold;
+      color: #ff5733;
+    }
+    .count-text {
+      font-size: 16px;
+      font-weight: 500;
+      color: #343a40;
+    }
+    @media (max-width: 768px) {
+      .counter {
+        margin-bottom: 20px;
+      }
+    }
+  </style>
+  
+  <div class="fun-facts" 
+  style="
+   background: url('assets/images/bg-img-ln.jpg') no-repeat center center / cover;
+   padding: 50px 0;
+   min-height: 300px; /* Ensures the section is visible */
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center;">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-4 col-md-6">
+          <div class="counter">
+            <h2 class="timer count-title count-number" data-to="14" data-speed="1000">14</h2>
+            <p class="count-text">Districts in<br>Tamil Nadu</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="counter">
+            <h2 class="timer count-title count-number" data-to="10" data-speed="1000">10</h2>
+            <p class="count-text">+ Years of<br>Experience</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+          <div class="counter">
+            <h2 class="timer count-title count-number" data-to="665" data-speed="1000">600</h2>
+            <p class="count-text">Villages in<br>Tamil Nadu</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- end of counter-->
+
+<div class="section best-deal">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="section-heading">
+            <h6>| Best Deal</h6>
+            <h2>Find Your Best Land Deal Right Now!</h2>
+          </div>
+        </div>
+    </div>
+
+<!--BEGIN SEARCH PROPERTIES-->
+    
+ <section id="propertyList">
+    <h2>Find Your Perfect Land Parcel</h2>
+    <h3>Coming Soon.</h3>
+    <p>Explore our bulk land listings across Tamil Nadu.</p>
+    <button onclick="scrollToProperties()">Browse Properties</button>
+ </section>
+ <section id="search-filters">
+    <input type="text" id="search" placeholder="Search properties...">
+    <select id="location">
+        <option value="">Select Location</option>
+    </select>
+    <select id="price-range">
+        <option value="">Select District</option>
+    </select>
+    <select id="area-range">
+        <option value="">Select Area Range</option>
+    </select>
+    <button onclick="filterProperties()">Search</button>
+ </section>
+
+ <section id="properties">
+    <h2>Available Land Parcels</h2>
+    <div id="property-list" class="grid"></div>
+ </section>
+</div>
+
+<!--End of SEARCH -->
+
+
+
+<!-- begining of bulletpoints-->
+<style>
+  .info-table ul {
+    list-style: none;
+    background: linear-gradient(135deg, #8fbee7, #727ffa);
+    padding: 5px;
+    border-radius: 5px;
+    margin: 0;
+  }
+
+  .info-table ul li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 7px;
+    border-bottom: 1px solid #fff;
+    font-size: 10px;
+    font-weight: 250;
+    color: #fff;
+  }
+
+  .img-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .img-fluid {
+    max-width: 80%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  @media (max-width: 768px) {
+    .info-table ul {
+      text-align: center;
+    }
+    
+    .img-container {
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+  }
+</style>
+
+<div class="container"  style="
+background: url('assets/images/bg-img3.jpg') no-repeat center center / cover;
+padding: 50px 0;
+min-height: 300px; /* Ensures the section is visible */
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;">>
+  <div class="row align-items-center">
+    <!-- Column 1 - Left Side List -->
+    <div class="col-md-4">
+      <div class="info-table">
+        <ul class="d-flex flex-column justify-content-between">
+          <li><strong style="color: green;">Residential Lands</strong> <span>Plots for Individual Homes</span></li>
+          <li><strong style="color: green;">Gated Community Plots</strong> <span>Luxury Residential Lands</span></li>
+          <li><strong style="color: green;">Villa Plots</strong> <span>Farmhouse Lands</span></li>
+          <li><strong style="color: green;">Industrial Lands</strong> <span>Manufacturing & Factory Lands</span></li>
+          <li><strong style="color: green;">Warehouse & Logistics Lands</strong> <span>SEZ Lands</span></li>
+          <li><strong style="color: green;">Mining & Extraction Lands</strong> <span>Export & Industrial Park</span></li>
+          <li><strong style="color: green;">Institutional Lands</strong> <span>Schools & Universities</span></li>
+          <li><strong style="color: green;">Renewable Energy Lands</strong> <span>Solar & Wind Projects</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Column 2 - Image -->
+    <div class="col-md-4 img-container">
+      <img src="assets/images/deal-01.jpg" alt="Tourism Land" class="img-fluid">
+    </div>
+
+    <!-- Column 3 - Right Side List -->
+    <div class="col-md-4">
+      <div class="info-table">
+        <ul class="d-flex flex-column justify-content-between">
+          <li><strong style="color: green;">Commercial Lands</strong> <span>Retail & Shopping Center Lands</span></li>
+          <li><strong style="color: green;">Office Space Lands</strong> <span>IT Park & Business Hub Lands</span></li>
+          <li><strong style="color: green;">Hotel & Resort Lands</strong> <span>Hospital Lands</span></li>
+          <li><strong style="color: green;">Agricultural Lands</strong> <span>Organic Farming Lands</span></li>
+          <li><strong style="color: green;">Dairy & Poultry Farm</strong> <span>Horticulture & Plantation</span></li>
+          <li><strong style="color: green;">Vineyard & Orchard</strong> <span>Grazing & Livestock Farming</span></li>
+          <li><strong style="color: green;">Recreational & Tourism Lands</strong> <span>Resort & Beachfront</span></li>
+          <li><strong style="color: green;">Holiday Home Lands</strong> <span>Adventure & Amusement Park</span></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  </div>
+</div>
+
+                  
+<!--End Of bulletPoint-->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> 
+
+
+
+<!--Contact Section-->
+  <div class="contact section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4 offset-lg-4">
+          <div class="section-heading text-center">
+            <h6>| Contact Us</h6>
+            <h2>Get In Touch 91 8939677189</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+<!--end Contact Section-->
+
+
+<!--Contact content-->
+  <div class="contact-content">
+    <div class="container">
+      <div class="row">
+          <div class="row">
+            <div class="col-lg-6">
+              <div class="item phone">
+                <img src="assets/images/phone-icon.png" alt="" style="max-width: 52px;">
+                <h6>+91 8939677189<br><span>Phone Number</span></h6>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="item email">
+                <img src="assets/images/email-icon.png" alt="" style="max-width: 52px;">
+                <h6>wisemount@outlook.com<br><span>Business Email</span></h6>
+              </div>
+            </div>
+          </div>
+        </div>        
+    </div>
+  </div>
+  
+<!--Contact content-->
+
+<!--Footer-->
+  <footer>
+    <div class="container">
+      <div class="col-lg-12 text-center"></div>
+        <p>Copyright © 2048 WiseMount Properties. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+  <!-- End of footer -->
+
+  <!-- Scripts -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/js/isotope.min.js"></script>
+  <script src="assets/js/owl-carousel.js"></script>
+  <script src="assets/js/counter.js"></script>
+  <script src="assets/js/custom.js"></script>
+
+  </body>
+</html>

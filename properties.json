@@ -1,0 +1,4230 @@
+[
+  {
+    "Sl.No": 1,
+    "Taluk": "Alangulam",
+    "Village": "A.P. Nadanur",
+    "Area": 23.79,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 2,
+    "Taluk": "Alangulam",
+    "Village": "Poolankulam",
+    "Area": 42.14,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 3,
+    "Taluk": "Ambasamuthiram",
+    "Village": "Vengadampatti",
+    "Area": 181.27,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 4,
+    "Taluk": "Ambasamuthiram",
+    "Village": "Venkatrengapuram",
+    "Area": 0,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 5,
+    "Taluk": "Ambasamuthiram",
+    "Village": "Idaikal",
+    "Area": 29.74,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 6,
+    "Taluk": "Ambasamuthiram",
+    "Village": "Pappakudi",
+    "Area": 165.95,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 7,
+    "Taluk": "Ayyappa Nagar",
+    "Village": "Kulavanigarpuram",
+    "Area": 0.17,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 8,
+    "Taluk": "Cheranmahadevi",
+    "Village": "Ainthnkattalai",
+    "Area": 42.58,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 9,
+    "Taluk": "Nanguneri",
+    "Village": "Ariyakulam",
+    "Area": 14.13,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 10,
+    "Taluk": "Nanguneri",
+    "Village": "Paruthipadu",
+    "Area": 238.51,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 11,
+    "Taluk": "Nanguneri",
+    "Village": "A.Sathankulam",
+    "Area": 1531.38,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 12,
+    "Taluk": "Nanguneri",
+    "Village": "Eraipuvari",
+    "Area": 138.15,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 13,
+    "Taluk": "Nanguneri",
+    "Village": "Illankulam",
+    "Area": 28.07,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 14,
+    "Taluk": "Nanguneri",
+    "Village": "Kariapatti",
+    "Area": 2.73,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 15,
+    "Taluk": "Nanguneri",
+    "Village": "Karanthaneri",
+    "Area": 85.83,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 16,
+    "Taluk": "Nanguneri",
+    "Village": "Melkarai",
+    "Area": 54.27,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 17,
+    "Taluk": "Nanguneri",
+    "Village": "Sadayaneri",
+    "Area": 1552.86,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 18,
+    "Taluk": "Nanguneri",
+    "Village": "Singikulam Old",
+    "Area": 66.19,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 19,
+    "Taluk": "Nanguneri",
+    "Village": "Thennerkulam",
+    "Area": 82.64,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 20,
+    "Taluk": "Nanguneri",
+    "Village": "Thottakudi",
+    "Area": 85.13,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 21,
+    "Taluk": "Nanguneri",
+    "Village": "Singikulam New",
+    "Area": 87,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 22,
+    "Taluk": "Nanguneri",
+    "Village": "Unnankulam",
+    "Area": 841.33,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 23,
+    "Taluk": "Nanguneri",
+    "Village": "Vijianarayanam",
+    "Area": 87.35,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 24,
+    "Taluk": "Nanguneri",
+    "Village": "Vijianarayanam",
+    "Area": 34.57,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 25,
+    "Taluk": "Nanguneri",
+    "Village": "Illankulam",
+    "Area": 369.52,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 26,
+    "Taluk": "Nanguneri",
+    "Village": "Kadankulam",
+    "Area": 70.08,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 27,
+    "Taluk": "Nanguneri",
+    "Village": "Koonthankulam",
+    "Area": 489.39,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 28,
+    "Taluk": "Nanguneri",
+    "Village": "Marukalakuruchi",
+    "Area": 84.07,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 29,
+    "Taluk": "Nanguneri",
+    "Village": "Moolaikaraipatti",
+    "Area": 1090.01,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 30,
+    "Taluk": "Nanguneri",
+    "Village": "Munanjipatti",
+    "Area": 31.12,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 31,
+    "Taluk": "Nanguneri",
+    "Village": "Pappankulam",
+    "Area": 384.4,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 32,
+    "Taluk": "Nanguneri",
+    "Village": "Ramakrishnapuram",
+    "Area": 466.36,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 33,
+    "Taluk": "Nanguneri",
+    "Village": "Singikulam",
+    "Area": 155.78,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 34,
+    "Taluk": "Nanguneri",
+    "Village": "Singikulam New & Old",
+    "Area": 140.22,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 35,
+    "Taluk": "Nanguneri",
+    "Village": "Singikulam Old",
+    "Area": 234.68,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 36,
+    "Taluk": "Nanguneri",
+    "Village": "Vijianarayanam",
+    "Area": 471.34,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 37,
+    "Taluk": "Radhapuram",
+    "Village": "Achampadu",
+    "Area": 318.9,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 38,
+    "Taluk": "Radhapuram",
+    "Village": "Annaikulam",
+    "Area": 64.35,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 39,
+    "Taluk": "Radhapuram",
+    "Village": "Kannanallur",
+    "Area": 185.2,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 40,
+    "Taluk": "Radhapuram",
+    "Village": "Kasthuri Renga Puram",
+    "Area": 27.21,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 41,
+    "Taluk": "Radhapuram",
+    "Village": "Kattarimangalam",
+    "Area": 15.74,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 42,
+    "Taluk": "Radhapuram",
+    "Village": "Kottaikarunkulam",
+    "Area": 1575.25,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 43,
+    "Taluk": "Radhapuram",
+    "Village": "Kovankulam",
+    "Area": 544.89,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 44,
+    "Taluk": "Radhapuram",
+    "Village": "Kumarapuram",
+    "Area": 115.25,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 45,
+    "Taluk": "Radhapuram",
+    "Village": "Natham and puthukulam",
+    "Area": 18.67,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 46,
+    "Taluk": "Radhapuram",
+    "Village": "Samugarengapuram",
+    "Area": 13.2,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 47,
+    "Taluk": "Sankarankovil",
+    "Village": "Kuruvikulam",
+    "Area": 337.31,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 48,
+    "Taluk": "Sankarankovil",
+    "Village": "Echanda",
+    "Area": 10.43,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 49,
+    "Taluk": "Sankarankovil",
+    "Village": "Melaelanthakulam",
+    "Area": 0,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 50,
+    "Taluk": "Sankarankovil",
+    "Village": "Naduvakurichi",
+    "Area": 87.26,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 51,
+    "Taluk": "Sankarankovil",
+    "Village": "Nalanthula",
+    "Area": 0,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 52,
+    "Taluk": "Sankarankovil",
+    "Village": "Pattadaikatti",
+    "Area": 0,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 53,
+    "Taluk": "Sankarankovil",
+    "Village": "K. Karisalkulam",
+    "Area": 9.88,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 54,
+    "Taluk": "Sankarankovil",
+    "Village": "Ilaiyarasanendal",
+    "Area": 350.13,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 55,
+    "Taluk": "Sankarankovil",
+    "Village": "Karisalkulam",
+    "Area": 2.61,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 56,
+    "Taluk": "Sankarankovil",
+    "Village": "Lakshmiammalpuram",
+    "Area": 365.45,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 57,
+    "Taluk": "Sankarankovil",
+    "Village": "Mukkuttumalai",
+    "Area": 141.24,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 58,
+    "Taluk": "Vilathikulam",
+    "Village": "Puliankulam",
+    "Area": 368.46,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 59,
+    "Taluk": "Sankarankovil",
+    "Village": "Sayamalai",
+    "Area": 178.88,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 60,
+    "Taluk": "Sankarankovil",
+    "Village": "Sayamalai  I, II",
+    "Area": 134.5,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 61,
+    "Taluk": "Sankarankovil",
+    "Village": "Therku Sankarankovil",
+    "Area": 121.32,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 62,
+    "Taluk": "Sankarankovil",
+    "Village": "Vannikonendal",
+    "Area": 50.22,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 63,
+    "Taluk": "Sankarankovil",
+    "Village": "Vellakulam",
+    "Area": 274.63,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 64,
+    "Taluk": "Sankarankovil",
+    "Village": "Zamin Devarkulam",
+    "Area": 101.21,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 65,
+    "Taluk": "Sathankulam",
+    "Village": "Kombankulam",
+    "Area": 4.88,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 66,
+    "Taluk": "SATHUR",
+    "Village": "AMMAPATTI",
+    "Area": 25.24,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 67,
+    "Taluk": "Sathankulam",
+    "Village": "Pannamparai",
+    "Area": 37.42,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 68,
+    "Taluk": "Sathankulam",
+    "Village": "Pudukulam",
+    "Area": 31.44,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 69,
+    "Taluk": "Shengottai",
+    "Village": "Pudur",
+    "Area": 0.43,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 70,
+    "Taluk": "Tiruchendur",
+    "Village": "Kurippankulam",
+    "Area": 53.89,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 71,
+    "Taluk": "Tirunelveli",
+    "Village": "Kalakudi",
+    "Area": 127.02,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 72,
+    "Taluk": "Tirunelveli",
+    "Village": "Puthur",
+    "Area": 0,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 73,
+    "Taluk": "Tirunelveli",
+    "Village": "Alagiapandiapuram",
+    "Area": 70.16,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 74,
+    "Taluk": "Tirunelveli",
+    "Village": "Chathiram Puthukulam",
+    "Area": 0.9,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 75,
+    "Taluk": "Tirunelveli",
+    "Village": "Ettankulam",
+    "Area": 260.43,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 76,
+    "Taluk": "Tirunelveli",
+    "Village": "Karuvanallur",
+    "Area": 850.67,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 77,
+    "Taluk": "Tirunelveli",
+    "Village": "Kattrankulam",
+    "Area": 3.81,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 78,
+    "Taluk": "Tirunelveli",
+    "Village": "Kodaganallur",
+    "Area": 58.53,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 79,
+    "Taluk": "Tirunelveli",
+    "Village": "Madhavakurichi",
+    "Area": 381.4,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 80,
+    "Taluk": "Tirunelveli",
+    "Village": "Sanganthiradu",
+    "Area": 287.87,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 81,
+    "Taluk": "V.K. Pudur",
+    "Village": "Annamalaidur",
+    "Area": 15.06,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 82,
+    "Taluk": "V.K. Pudur",
+    "Village": "Balapathiramapuram",
+    "Area": 231.38,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 83,
+    "Taluk": "V.K. Pudur",
+    "Village": "Melamarudapuram",
+    "Area": 6.03,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 84,
+    "Taluk": "V.K. Pudur",
+    "Village": "Muthammalpuram",
+    "Area": 825.99,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 85,
+    "Taluk": "Ettayapuram",
+    "Village": "Meenatchipuram",
+    "Area": 467.76,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 86,
+    "Taluk": "Ettayapuram",
+    "Village": "Thangammalpuram",
+    "Area": 72.09,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 87,
+    "Taluk": "Ettayapuram",
+    "Village": "VEERAPATI",
+    "Area": 13.98,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 88,
+    "Taluk": "Ettayapuram",
+    "Village": "Athikinar",
+    "Area": 26.37,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 89,
+    "Taluk": "Ettayapuram",
+    "Village": "Ayankarisalkulam",
+    "Area": 20.86,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 90,
+    "Taluk": "Ettayapuram",
+    "Village": "Erachi",
+    "Area": 12.14,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 91,
+    "Taluk": "Ettayapuram",
+    "Village": "Kalukasapuram",
+    "Area": 20.08,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 92,
+    "Taluk": "Ettayapuram",
+    "Village": "Keela Eral",
+    "Area": 27.94,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 93,
+    "Taluk": "Ettayapuram",
+    "Village": "N.Vedappatti",
+    "Area": 106.47,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 94,
+    "Taluk": "Ettayapuram",
+    "Village": "Semaputhur",
+    "Area": 28.48,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 95,
+    "Taluk": "Ettayapuram",
+    "Village": "Thalaikattupuram",
+    "Area": 89.37,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 96,
+    "Taluk": "Kovilpatti",
+    "Village": "Sivanthipatti",
+    "Area": 19.44,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 97,
+    "Taluk": "Kovilpatti",
+    "Village": "Sundareswarapuram",
+    "Area": 25.66,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 98,
+    "Taluk": "Kovilpatti",
+    "Village": "Teethampatti",
+    "Area": 12.38,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 99,
+    "Taluk": "Kovilpatti",
+    "Village": "Therku  Vandanam",
+    "Area": 70.09,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 100,
+    "Taluk": "Kovilpatti",
+    "Village": "Therkkuilandakulam",
+    "Area": 37.43,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 101,
+    "Taluk": "Kovilpatti",
+    "Village": "Thottampatti",
+    "Area": 54.89,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 102,
+    "Taluk": "Kovilpatti",
+    "Village": "Vellalankottai",
+    "Area": 174.2,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 103,
+    "Taluk": "Kovilpatti",
+    "Village": "Achankulam",
+    "Area": 78,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 104,
+    "Taluk": "Kovilpatti",
+    "Village": "Akilandapuram",
+    "Area": 127.86,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 105,
+    "Taluk": "Kovilpatti",
+    "Village": "Ayal Natham",
+    "Area": 46.58,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 106,
+    "Taluk": "Kovilpatti",
+    "Village": "Chettikurichi",
+    "Area": 729.25,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 107,
+    "Taluk": "Kovilpatti",
+    "Village": "Kilavipatti",
+    "Area": 20.87,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 108,
+    "Taluk": "Kovilpatti",
+    "Village": "Kurumalai",
+    "Area": 73.72,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 109,
+    "Taluk": "Kovilpatti",
+    "Village": "Melparaipatti",
+    "Area": 16.44,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 110,
+    "Taluk": "Kovilpatti",
+    "Village": "NorthElanthakulam",
+    "Area": 3.5,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 111,
+    "Taluk": "Ottapidaram",
+    "Village": "Umarikottai",
+    "Area": 1614.31,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 112,
+    "Taluk": "Ottapidaram",
+    "Village": "Vellaram",
+    "Area": 73.21,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 113,
+    "Taluk": "Ottapidaram",
+    "Village": "Venkateswarapuram",
+    "Area": 895.18,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 114,
+    "Taluk": "Ottapidaram",
+    "Village": "Araikulam",
+    "Area": 201.01,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 115,
+    "Taluk": "Ottapidaram",
+    "Village": "Athanur",
+    "Area": 71.92,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 116,
+    "Taluk": "Ottapidaram",
+    "Village": "Chillankulam",
+    "Area": 13.17,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 117,
+    "Taluk": "Ottapidaram",
+    "Village": "Jambulingarpuram",
+    "Area": 180.65,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 118,
+    "Taluk": "Ottapidaram",
+    "Village": "Kattcherry Thalavaipuram",
+    "Area": 21.99,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 119,
+    "Taluk": "Ottapidaram",
+    "Village": "Keelamangalam",
+    "Area": 127.14,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 120,
+    "Taluk": "Ottapidaram",
+    "Village": "Kulasekaranallur",
+    "Area": 45,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 121,
+    "Taluk": "Ottapidaram",
+    "Village": "Kumarettiyapuram",
+    "Area": 227.78,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 122,
+    "Taluk": "Ottapidaram",
+    "Village": "Melapandiyapuram",
+    "Area": 888.875,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 123,
+    "Taluk": "Ottapidaram",
+    "Village": "Mudhuramalingapuram",
+    "Area": 44.23,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 124,
+    "Taluk": "Ottapidaram",
+    "Village": "Muramban",
+    "Area": 353.17,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 125,
+    "Taluk": "Ottapidaram",
+    "Village": "Ottanaththam",
+    "Area": 152.86,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 126,
+    "Taluk": "Ottapidaram",
+    "Village": "P. Duraisamipuram",
+    "Area": 469.755,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 127,
+    "Taluk": "Ottapidaram",
+    "Village": "Panchalankurichi",
+    "Area": 161.4,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 128,
+    "Taluk": "Ottapidaram",
+    "Village": "Paraikuttam",
+    "Area": 1129.22,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 129,
+    "Taluk": "Ottapidaram",
+    "Village": "Sankampatti",
+    "Area": 505.705,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 130,
+    "Taluk": "Ottapidaram",
+    "Village": "Savarimangalam",
+    "Area": 947.175,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 131,
+    "Taluk": "Radhapuram",
+    "Village": "Serakulam",
+    "Area": 204.985,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 132,
+    "Taluk": "Radhapuram",
+    "Village": "Kovankulam",
+    "Area": 2.22,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 133,
+    "Taluk": "Srivaikundam",
+    "Village": "Vallakulam",
+    "Area": 6.37,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 134,
+    "Taluk": "Sankarankovil",
+    "Village": "Vellakulam",
+    "Area": 17.15,
+    "District": "Tirunelveli"
+  },
+  {
+    "Sl.No": 135,
+    "Taluk": "Sathankulam",
+    "Village": "Panamparai",
+    "Area": 16.7,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 136,
+    "Taluk": "Sathankulam",
+    "Village": "Nedunkulam",
+    "Area": 72.09,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 137,
+    "Taluk": "Sathankulam",
+    "Village": "Karunkadal",
+    "Area": 43.36,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 138,
+    "Taluk": "Sathankulam",
+    "Village": "Kottrimangalam",
+    "Area": 575.91,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 139,
+    "Taluk": "Sathankulam",
+    "Village": "Kombankulam",
+    "Area": 65.7,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 140,
+    "Taluk": "Sathankulam",
+    "Village": "Kottrimangalam",
+    "Area": 73.32,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 141,
+    "Taluk": "Srivaikundam",
+    "Village": "Therkku  karaseri",
+    "Area": 485.89,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 142,
+    "Taluk": "Srivaikundam",
+    "Village": "Aniyabaranallur",
+    "Area": 403.83,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 143,
+    "Taluk": "Srivaikundam",
+    "Village": "Padmanabamangalam",
+    "Area": 296.58,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 144,
+    "Taluk": "Thiruchuli",
+    "Village": "Sethupuram",
+    "Area": 17.24,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 145,
+    "Taluk": "Thiruchuli",
+    "Village": "Irunchirai",
+    "Area": 6.76,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 146,
+    "Taluk": "Tiruchendur",
+    "Village": "Udaiyarkulam",
+    "Area": 381.03,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 147,
+    "Taluk": "Tiruchendur",
+    "Village": "Vadiyakulam",
+    "Area": 1.01,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 148,
+    "Taluk": "Tiruchendur",
+    "Village": "Kurippankulam",
+    "Area": 52.5,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 149,
+    "Taluk": "Tiruchendur",
+    "Village": "Kurippankulam",
+    "Area": 14.17,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 150,
+    "Taluk": "Tiruchendur",
+    "Village": "Kurippankulam",
+    "Area": 914.15,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 151,
+    "Taluk": "Tuticorin",
+    "Village": "Thimmarajapuram",
+    "Area": 62.13,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 152,
+    "Taluk": "Tuticorin",
+    "Village": "MelaThattaparai",
+    "Area": 96.06,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 153,
+    "Taluk": "Vilathikulam",
+    "Village": "Sivagnanapuram",
+    "Area": 30.27,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 154,
+    "Taluk": "Vilathikulam",
+    "Village": "Thathaneri",
+    "Area": 165.28,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 155,
+    "Taluk": "Vilathikulam",
+    "Village": "Vavvaaltotti",
+    "Area": 310.46,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 156,
+    "Taluk": "Vilathikulam",
+    "Village": "Vellaiammalpuram",
+    "Area": 43.27,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 157,
+    "Taluk": "Vilathikulam",
+    "Village": "Ariyanayagipuram",
+    "Area": 486.255,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 158,
+    "Taluk": "Vilathikulam",
+    "Village": "Arungulam",
+    "Area": 11.2,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 159,
+    "Taluk": "Vilathikulam",
+    "Village": "Athankarai",
+    "Area": 234.2,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 160,
+    "Taluk": "Vilathikulam",
+    "Village": "Buthalapuram",
+    "Area": 299.44,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 161,
+    "Taluk": "Vilathikulam",
+    "Village": "Chinnoor",
+    "Area": 263.18,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 162,
+    "Taluk": "Vilathikulam",
+    "Village": "Inamavadamalapuram",
+    "Area": 72.99,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 163,
+    "Taluk": "Vilathikulam",
+    "Village": "Jagavirapuram",
+    "Area": 12.58,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 164,
+    "Taluk": "Vilathikulam",
+    "Village": "Jaminsengalpadai",
+    "Area": 1151.85,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 165,
+    "Taluk": "Vilathikulam",
+    "Village": "K. Duraiswamypuram",
+    "Area": 20.83,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 166,
+    "Taluk": "Vilathikulam",
+    "Village": "Kandasamypuram",
+    "Area": 23.86,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 167,
+    "Taluk": "Vilathikulam",
+    "Village": "Keelavilathikulam�1",
+    "Area": 108.43,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 168,
+    "Taluk": "Vilathikulam",
+    "Village": "Koothaloorani",
+    "Area": 141.105,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 169,
+    "Taluk": "Vilathikulam",
+    "Village": "Kumarasakkanapuram",
+    "Area": 4,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 170,
+    "Taluk": "Vilathikulam",
+    "Village": "Lakshmipuram",
+    "Area": 90.61,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 171,
+    "Taluk": "Vilathikulam",
+    "Village": "M. Kodangipatti",
+    "Area": 116.94,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 172,
+    "Taluk": "Vilathikulam",
+    "Village": "M.SUBRAMANIAPURAM",
+    "Area": 337.14,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 173,
+    "Taluk": "Vilathikulam",
+    "Village": "Manthikulam",
+    "Area": 69.18,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 174,
+    "Taluk": "Vilathikulam",
+    "Village": "Mavilodai",
+    "Area": 86.1,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 175,
+    "Taluk": "Vilathikulam",
+    "Village": "Melmanthai",
+    "Area": 9.29,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 176,
+    "Taluk": "Vilathikulam",
+    "Village": "Muthiapuram",
+    "Area": 24.73,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 177,
+    "Taluk": "Vilathikulam",
+    "Village": "N. Jagavirapuram",
+    "Area": 222.24,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 178,
+    "Taluk": "Vilathikulam",
+    "Village": "P.Jagvirapuram",
+    "Area": 383.44,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 179,
+    "Taluk": "Vilathikulam",
+    "Village": "Pudur",
+    "Area": 14.31,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 180,
+    "Taluk": "Vilathikulam",
+    "Village": "Ramachandrapuram",
+    "Area": 33.06,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 181,
+    "Taluk": "Vilathikulam",
+    "Village": "Subramaniapuram",
+    "Area": 7.68,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 182,
+    "Taluk": "Vilathikulam",
+    "Village": "Subbiapuram",
+    "Area": 50.54,
+    "District": "Thoothukudi"
+  },
+  {
+    "Sl.No": 183,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "AMANUKNATHAM",
+    "Area": 627.11,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 184,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "AYYANARKULAM",
+    "Area": 46.51,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 185,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "CHETTIKURICHI",
+    "Area": 611.92,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 186,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "ERAICHINNAMPATTI",
+    "Area": 65.58,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 187,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "KALLAKARAI",
+    "Area": 117.57,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 188,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "KALLURANI",
+    "Area": 10.64,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 189,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "KANNAKKI",
+    "Area": 32.71,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 190,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "KEELGUDI",
+    "Area": 145.47,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 191,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "KOOTHIPARAIL",
+    "Area": 126.02,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 192,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "KURUNTHAMADAM",
+    "Area": 194.94,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 193,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "MANANGATHAN",
+    "Area": 235.51,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 194,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "MANGATHAM",
+    "Area": 56.3,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 195,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "MARAVARPERUNKUDI",
+    "Area": 7.51,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 196,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "MELAIYUR",
+    "Area": 53.84,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 197,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "PARATTAINATHAM",
+    "Area": 170.5,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 198,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "PODAMPATTI",
+    "Area": 26.91,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 199,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "PULLANGAL",
+    "Area": 175.74,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 200,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "RAMAPURAM",
+    "Area": 54,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 201,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "SENKULAM",
+    "Area": 147.22,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 202,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "THENUR",
+    "Area": 28.43,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 203,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "THAMMANAYAKKANPATTI",
+    "Area": 39.54,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 204,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "THERKKU NATHAM",
+    "Area": 37.66,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 205,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "THOPPALAKARAI",
+    "Area": 431.41,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 206,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "TULKANKULAM",
+    "Area": 98.13,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 207,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "VADAKKU NATHAM",
+    "Area": 8.69,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 208,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "VEDANATHAM",
+    "Area": 221.7,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 209,
+    "Taluk": "KARIAPATTI",
+    "Village": "AAMBAIKULAM",
+    "Area": 96.81,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 210,
+    "Taluk": "KARIAPATTI",
+    "Village": "ALANGULAM",
+    "Area": 30.49,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 211,
+    "Taluk": "KARIAPATTI",
+    "Village": "ANMAIPERUKKI",
+    "Area": 124.32,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 212,
+    "Taluk": "KARIAPATTI",
+    "Village": "AYYANREDDIPATTI",
+    "Area": 271.7,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 213,
+    "Taluk": "KARIAPATTI",
+    "Village": "CHATHIRAPULIANKULAM",
+    "Area": 347.77,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 214,
+    "Taluk": "KARIAPATTI",
+    "Village": "CHITHANENDAL",
+    "Area": 1.95,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 215,
+    "Taluk": "KARIAPATTI",
+    "Village": "KEELAKANCHIRAMKULAM",
+    "Area": 10.2,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 216,
+    "Taluk": "KARIAPATTI",
+    "Village": "KILAVANERI",
+    "Area": 248.395,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 217,
+    "Taluk": "KARIAPATTI",
+    "Village": "LAPATHIYENDHAL",
+    "Area": 95.56,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 218,
+    "Taluk": "KARIAPATTI",
+    "Village": "MAANKULAM",
+    "Area": 216.6,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 219,
+    "Taluk": "KARIAPATTI",
+    "Village": "MANTHOPU",
+    "Area": 383.93,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 220,
+    "Taluk": "KARIAPATTI",
+    "Village": "MELAKALLANKULAM",
+    "Area": 150.38,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 221,
+    "Taluk": "KARIAPATTI",
+    "Village": "MELAPUDHUPATTI",
+    "Area": 55.55,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 222,
+    "Taluk": "KARIAPATTI",
+    "Village": "MUSTAKKURUCHI",
+    "Area": 323.61,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 223,
+    "Taluk": "KARIAPATTI",
+    "Village": "PAMBATTI",
+    "Area": 14.65,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 224,
+    "Taluk": "KARIAPATTI",
+    "Village": "PANCHAR",
+    "Area": 18.56,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 225,
+    "Taluk": "KARIAPATTI",
+    "Village": "PAPPANAM",
+    "Area": 163.25,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 226,
+    "Taluk": "KARIAPATTI",
+    "Village": "PERIYA ALANGULAM",
+    "Area": 373.03,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 227,
+    "Taluk": "KARIAPATTI",
+    "Village": "PERIYASIRIRAMAPURAM",
+    "Area": 240.92,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 228,
+    "Taluk": "KARIAPATTI",
+    "Village": "SITHANENDHAL",
+    "Area": 49.29,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 229,
+    "Taluk": "KARIAPATTI",
+    "Village": "SUBRAMANIAPURAM",
+    "Area": 106.58,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 230,
+    "Taluk": "KARIAPATTI",
+    "Village": "SUNDARAM  AYYAR ALANKULAM",
+    "Area": 44.15,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 231,
+    "Taluk": "KARIAPATTI",
+    "Village": "THIRUMANENDHAL",
+    "Area": 19.72,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 232,
+    "Taluk": "KARIAPATTI",
+    "Village": "THOPPUR",
+    "Area": 257.16,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 233,
+    "Taluk": "KARIAPATTI",
+    "Village": "VALLUKKALOTTY",
+    "Area": 371.85,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 234,
+    "Taluk": "KARIAPATTI",
+    "Village": "VARALOTTI",
+    "Area": 16.75,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 235,
+    "Taluk": "KARIAPATTI",
+    "Village": "VETTRILAI MURIYANAPATTI",
+    "Area": 50.94,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 236,
+    "Taluk": "PARAMAKUDI",
+    "Village": "THADUTHALANKOTTAI",
+    "Area": 49.54,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 237,
+    "Taluk": "SATHUR",
+    "Village": "ALAMPATTI",
+    "Area": 35.04,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 238,
+    "Taluk": "SATHUR",
+    "Village": "AMMAPATTI",
+    "Area": 380,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 239,
+    "Taluk": "SATHUR",
+    "Village": "AYANKANGARAKOTTAI",
+    "Area": 76.02,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 240,
+    "Taluk": "SATHUR",
+    "Village": "CHINNAKOLLAPATTI",
+    "Area": 8.05,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 241,
+    "Taluk": "SATHUR",
+    "Village": "INAMACARNGAKOTAI",
+    "Area": 36.67,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 242,
+    "Taluk": "SATHUR",
+    "Village": "KARISALPATTI",
+    "Area": 34.84,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 243,
+    "Taluk": "SATHUR",
+    "Village": "KATHALAMPATTI",
+    "Area": 102.59,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 244,
+    "Taluk": "SATHUR",
+    "Village": "KOSUKUNDU",
+    "Area": 228.8,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 245,
+    "Taluk": "SATHUR",
+    "Village": "KUNDALAKUTHUR",
+    "Area": 1133.56,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 246,
+    "Taluk": "SATHUR",
+    "Village": "MUDITHALAI NAGALAPURAM",
+    "Area": 174.4,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 247,
+    "Taluk": "SATHUR",
+    "Village": "N.METTUPATTI",
+    "Area": 350.27,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 248,
+    "Taluk": "SATHUR",
+    "Village": "NALLAMANAICKANPATTI",
+    "Area": 392.3,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 249,
+    "Taluk": "SATHUR",
+    "Village": "NALLAMUTHANPATTI",
+    "Area": 226.48,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 250,
+    "Taluk": "SATHUR",
+    "Village": "NALLI",
+    "Area": 106.32,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 251,
+    "Taluk": "SATHUR",
+    "Village": "NENMENI",
+    "Area": 126.11,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 252,
+    "Taluk": "SATHUR",
+    "Village": "PAPPAKUDI",
+    "Area": 421.6,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 253,
+    "Taluk": "SATHUR",
+    "Village": "PERIYAKOLLAPATTI",
+    "Area": 400.52,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 254,
+    "Taluk": "SATHUR",
+    "Village": "RAVOOTHANPATTI",
+    "Area": 30.33,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 255,
+    "Taluk": "SATHUR",
+    "Village": "SANANKULAM",
+    "Area": 91.65,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 256,
+    "Taluk": "SATHUR",
+    "Village": "SANKARAPANDIAPURAM",
+    "Area": 126.2,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 257,
+    "Taluk": "SATHUR",
+    "Village": "SERVAIKARANPATTI",
+    "Area": 272.32,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 258,
+    "Taluk": "SIVAKASI",
+    "Village": "KALAIARKURICHI",
+    "Area": 446.68,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 259,
+    "Taluk": "SIVAKASI",
+    "Village": "MANGALAM",
+    "Area": 355.2,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 260,
+    "Taluk": "SIVAKASI",
+    "Village": "PUDUKOTTAI",
+    "Area": 28.6,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 261,
+    "Taluk": "SRIVILLIPUTTUR",
+    "Village": "AYANKARISALKULAM",
+    "Area": 100.745,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 262,
+    "Taluk": "SRIVILLIPUTTUR",
+    "Village": "GOVINDHANALLOOR",
+    "Area": 37.85,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 263,
+    "Taluk": "SRIVILLIPUTTUR",
+    "Village": "KALATHUR",
+    "Area": 13.84,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 264,
+    "Taluk": "SRIVILLIPUTTUR",
+    "Village": "KARISALKULAM",
+    "Area": 35.59,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 265,
+    "Taluk": "SRIVILLIPUTTUR",
+    "Village": "MOOVARAIVENTRAN",
+    "Area": 128.24,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 266,
+    "Taluk": "SRIVILLIPUTTUR",
+    "Village": "RUTHIRAPPANAICKANPATTI",
+    "Area": 38.28,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 267,
+    "Taluk": "SRIVILLIPUTTUR",
+    "Village": "VADUGAPATTI",
+    "Area": 161.18,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 268,
+    "Taluk": "SRIVILLIPUTTUR",
+    "Village": "VELAIPOTTAL",
+    "Area": 111.22,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 269,
+    "Taluk": "THIRUCHULI",
+    "Village": "AGATHAKULAM",
+    "Area": 1.56,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 270,
+    "Taluk": "THIRUCHULI",
+    "Village": "KOOTHIPARAIL",
+    "Area": 82.16,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 271,
+    "Taluk": "THIRUCHULI",
+    "Village": "ANAIKULAM",
+    "Area": 114.108,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 272,
+    "Taluk": "THIRUCHULI",
+    "Village": "ATCHANKULAM",
+    "Area": 16.29,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 273,
+    "Taluk": "THIRUCHULI",
+    "Village": "ATHITHANENTHAL",
+    "Area": 29.24,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 274,
+    "Taluk": "THIRUCHULI",
+    "Village": "CHINNA VAANANKULAM",
+    "Area": 16.15,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 275,
+    "Taluk": "THIRUCHULI",
+    "Village": "ESALI",
+    "Area": 80.54,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 276,
+    "Taluk": "THIRUCHULI",
+    "Village": "ILLUPAIYUR",
+    "Area": 116.295,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 277,
+    "Taluk": "THIRUCHULI",
+    "Village": "IRUNCHIRAI",
+    "Area": 43.43,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 278,
+    "Taluk": "THIRUCHULI",
+    "Village": "K.PULIANKULAM",
+    "Area": 8.67,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 279,
+    "Taluk": "THIRUCHULI",
+    "Village": "KAMALIANKULAM",
+    "Area": 19.53,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 280,
+    "Taluk": "THIRUCHULI",
+    "Village": "KAMALIPULIANKULAM",
+    "Area": 69.14,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 281,
+    "Taluk": "THIRUCHULI",
+    "Village": "KATTUMARAIKULAM",
+    "Area": 43.82,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 282,
+    "Taluk": "THIRUCHULI",
+    "Village": "KEELAKKONDRAIKULAM",
+    "Area": 66.59,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 283,
+    "Taluk": "THIRUCHULI",
+    "Village": "KEELAPULIYANDARKOTTAI",
+    "Area": 49.59,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 284,
+    "Taluk": "THIRUCHULI",
+    "Village": "KOIKKAPPETHAN",
+    "Area": 77.15,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 285,
+    "Taluk": "THIRUCHULI",
+    "Village": "KOKKULAM",
+    "Area": 126.71,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 286,
+    "Taluk": "THIRUCHULI",
+    "Village": "KURAVAKULAM KADAMPANGULA",
+    "Area": 19.52,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 287,
+    "Taluk": "THIRUCHULI",
+    "Village": "KURIYARAVASITHAN",
+    "Area": 48.48,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 288,
+    "Taluk": "THIRUCHULI",
+    "Village": "KUVARAKULAMKURIYENDAL",
+    "Area": 22.1,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 289,
+    "Taluk": "THIRUCHULI",
+    "Village": "MUTHUANENDHAL",
+    "Area": 16.72,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 290,
+    "Taluk": "THIRUCHULI",
+    "Village": "NADUVAPPATCHERI",
+    "Area": 98.31,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 291,
+    "Taluk": "THIRUCHULI",
+    "Village": "NALLUKURIUCHI",
+    "Area": 7.21,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 292,
+    "Taluk": "THIRUCHULI",
+    "Village": "NALUR",
+    "Area": 22.86,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 293,
+    "Taluk": "THIRUCHULI",
+    "Village": "NATHAKULAM",
+    "Area": 52.805,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 294,
+    "Taluk": "THIRUCHULI",
+    "Village": "NOTCHIKULAM",
+    "Area": 11.44,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 295,
+    "Taluk": "THIRUCHULI",
+    "Village": "PANAIKKUDI",
+    "Area": 18.2,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 296,
+    "Taluk": "THIRUCHULI",
+    "Village": "PANAIYUR",
+    "Area": 57.39,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 297,
+    "Taluk": "THIRUCHULI",
+    "Village": "PARAIYANKULAM",
+    "Area": 64.93,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 298,
+    "Taluk": "THIRUCHULI",
+    "Village": "PILLAIYARNATTAM",
+    "Area": 33.54,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 299,
+    "Taluk": "THIRUCHULI",
+    "Village": "RENGUNATHAMADI",
+    "Area": 491.92,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 300,
+    "Taluk": "THIRUCHULI",
+    "Village": "SEMANENTHAL",
+    "Area": 16.04,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 301,
+    "Taluk": "THIRUCHULI",
+    "Village": "SENNILKUDI",
+    "Area": 524.47,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 302,
+    "Taluk": "THIRUCHULI",
+    "Village": "SETHUPURAM",
+    "Area": 95.46,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 303,
+    "Taluk": "THIRUCHULI",
+    "Village": "SILAMPATTI",
+    "Area": 56.01,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 304,
+    "Taluk": "THIRUCHULI",
+    "Village": "SOTTAMURI",
+    "Area": 93.54,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 305,
+    "Taluk": "THIRUCHULI",
+    "Village": "SRIRAMANENDHAL",
+    "Area": 34.15,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 306,
+    "Taluk": "THIRUCHULI",
+    "Village": "SUCHCHANERI",
+    "Area": 129.91,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 307,
+    "Taluk": "THIRUCHULI",
+    "Village": "SULLANKUDI",
+    "Area": 8.2,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 308,
+    "Taluk": "THIRUCHULI",
+    "Village": "TIRUCHULI",
+    "Area": 34.46,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 309,
+    "Taluk": "THIRUCHULI",
+    "Village": "UDALYANAMPATTI",
+    "Area": 87.55,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 310,
+    "Taluk": "THIRUCHULI",
+    "Village": "VEERA ALANGULAM",
+    "Area": 51.23,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 311,
+    "Taluk": "THIRUCHULI",
+    "Village": "VELANOORANI",
+    "Area": 400.26,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 312,
+    "Taluk": "SIVAKASI",
+    "Village": "APPANAICKANPATTI",
+    "Area": 530.54,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 313,
+    "Taluk": "RAJAPALAYAM",
+    "Village": "KADAMBANGULAM",
+    "Area": 63.54,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 314,
+    "Taluk": "SIVAKASI",
+    "Village": "KOVIL VEERAPATTI",
+    "Area": 89.65,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 315,
+    "Taluk": "ARUPPUKOTTAI",
+    "Village": "V.SUNDARALINGAPURAM",
+    "Area": 157.56,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 316,
+    "Taluk": "SIVAKASI",
+    "Village": "VALAIYAPATTI",
+    "Area": 58.85,
+    "District": "Virudhunagar"
+  },
+  {
+    "Sl.No": 317,
+    "Taluk": "Devakottai",
+    "Village": "Keelakovilan",
+    "Area": 3.35,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 318,
+    "Taluk": "Devakottai",
+    "Village": "Marichukatti",
+    "Area": 116.53,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 319,
+    "Taluk": "Devakottai",
+    "Village": "Nedungulam",
+    "Area": 8.38,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 320,
+    "Taluk": "Devakottai",
+    "Village": "Seenamangalam Thittukottai",
+    "Area": 10.45,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 321,
+    "Taluk": "Ilyangudi",
+    "Village": "Kalaikulam",
+    "Area": 23.82,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 322,
+    "Taluk": "Ilyangudi",
+    "Village": "Karaikulam",
+    "Area": 1.51,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 323,
+    "Taluk": "Ilyangudi",
+    "Village": "Kodanukkadutha Sathanoor",
+    "Area": 80.85,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 324,
+    "Taluk": "Ilyangudi",
+    "Village": "Pappanenthal",
+    "Area": 24.22,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 325,
+    "Taluk": "Ilyangudi",
+    "Village": "Parchatti",
+    "Area": 12.49,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 326,
+    "Taluk": "Ilyangudi",
+    "Village": "Salaigramam",
+    "Area": 404.18,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 327,
+    "Taluk": "Ilyangudi",
+    "Village": "Salaigramam Vadakku Keeranoor",
+    "Area": 7.99,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 328,
+    "Taluk": "Ilyangudi",
+    "Village": "Sothukudi",
+    "Area": 39.18,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 329,
+    "Taluk": "Karaikudi",
+    "Village": "Panangudi",
+    "Area": 149.63,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 330,
+    "Taluk": "Karaikudi",
+    "Village": "Panangudi, Ilayarasanendal, Pulaiankulam, Subramaniyapur",
+    "Area": 109.33,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 331,
+    "Taluk": "Karaikudi",
+    "Village": "Thanneerpandal",
+    "Area": 3.28,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 332,
+    "Taluk": "Karaikudi",
+    "Village": "Aranmanaisiruvayal",
+    "Area": 4.74,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 333,
+    "Taluk": "Manamadurai",
+    "Village": "South Santhanoor",
+    "Area": 729.64,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 334,
+    "Taluk": "Manamadurai",
+    "Village": "T. Pudukottai",
+    "Area": 63.19,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 335,
+    "Taluk": "Manamadurai",
+    "Village": "Ayyanarkulam",
+    "Area": 146.85,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 336,
+    "Taluk": "Manamadurai",
+    "Village": "Ilanthaikulam Udappakulam",
+    "Area": 24.9,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 337,
+    "Taluk": "Manamadurai",
+    "Village": "Jaripudukottai",
+    "Area": 19.31,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 338,
+    "Taluk": "Manamadurai",
+    "Village": "K.K. Pallam",
+    "Area": 90.82,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 339,
+    "Taluk": "Manamadurai",
+    "Village": "Krishnan Thavu Kumilan Pallam",
+    "Area": 9.09,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 340,
+    "Taluk": "Manamadurai",
+    "Village": "Manambakki",
+    "Area": 19.89,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 341,
+    "Taluk": "Manamadurai",
+    "Village": "Maruthanganallur",
+    "Area": 188.26,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 342,
+    "Taluk": "Manamadurai",
+    "Village": "Mayali",
+    "Area": 283.99,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 343,
+    "Taluk": "Manamadurai",
+    "Village": "Mukkudi",
+    "Area": 237.43,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 344,
+    "Taluk": "Manamadurai",
+    "Village": "P.Alangulam",
+    "Area": 46.63,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 345,
+    "Taluk": "Manamadurai",
+    "Village": "Pallamittai",
+    "Area": 9,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 346,
+    "Taluk": "Manamadurai",
+    "Village": "Puliyankulam",
+    "Area": 50.44,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 347,
+    "Taluk": "Manamadurai",
+    "Village": "S. Karaikudi",
+    "Area": 311.64,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 348,
+    "Taluk": "Manamadurai",
+    "Village": "S. Karaikudi Group-\nMaruthanganallur",
+    "Area": 161.36,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 349,
+    "Taluk": "Manamadurai",
+    "Village": "Santhanoor (Therkuchandanoor)",
+    "Area": 117.51,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 350,
+    "Taluk": "Manamadurai",
+    "Village": "Seiyangkottai",
+    "Area": 15.42,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 351,
+    "Taluk": "Manamadurai",
+    "Village": "Seyyaloor",
+    "Area": 73.11,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 352,
+    "Taluk": "Manamadurai",
+    "Village": "Thennavarayan Pudukottai",
+    "Area": 86.69,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 353,
+    "Taluk": "Manamadurai",
+    "Village": "Therkuchandanoor (South\nSanthanoor)",
+    "Area": 311.51,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 354,
+    "Taluk": "Manamadurai",
+    "Village": "Velankulam",
+    "Area": 9.05,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 355,
+    "Taluk": "Manamadurai",
+    "Village": "Vethiyarenthal",
+    "Area": 495.59,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 356,
+    "Taluk": "Sivagangai",
+    "Village": "Vattamuthu Kanmai",
+    "Area": 10.99,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 357,
+    "Taluk": "Sivagangai",
+    "Village": "A. Karungulam",
+    "Area": 35.59,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 358,
+    "Taluk": "Sivagangai",
+    "Village": "A. Vilakulam",
+    "Area": 78.09,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 359,
+    "Taluk": "Sivagangai",
+    "Village": "Alpattavidhuthi",
+    "Area": 92.29,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 360,
+    "Taluk": "Sivagangai",
+    "Village": "Anaivilunthan",
+    "Area": 135.52,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 361,
+    "Taluk": "Sivagangai",
+    "Village": "Arasakulam,\nKurunthanivariyendhal, Iruppanpoochi, Valayampatti",
+    "Area": 75.05,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 362,
+    "Taluk": "Sivagangai",
+    "Village": "Cholankulam Kalikaadu\nSrirenganatham",
+    "Area": 11.71,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 363,
+    "Taluk": "Sivagangai",
+    "Village": "CHOLAPURAM,",
+    "Area": 38.82,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 364,
+    "Taluk": "Sivagangai",
+    "Village": "Cholavanthan",
+    "Area": 115.97,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 365,
+    "Taluk": "Sivagangai",
+    "Village": "Irumpoor",
+    "Area": 236.77,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 366,
+    "Taluk": "Sivagangai",
+    "Village": "Iruppanpoochi Valayampatti",
+    "Area": 54.04,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 367,
+    "Taluk": "Sivagangai",
+    "Village": "Kadampankulam",
+    "Area": 29.95,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 368,
+    "Taluk": "Sivagangai",
+    "Village": "Kalikaadu Srirenganatham",
+    "Area": 19.37,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 369,
+    "Taluk": "Sivagangai",
+    "Village": "Kallikudi",
+    "Area": 217.07,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 370,
+    "Taluk": "Sivagangai",
+    "Village": "Karunkalankudi",
+    "Area": 14.96,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 371,
+    "Taluk": "Sivagangai",
+    "Village": "Kattuchuraivandhi",
+    "Area": 1.54,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 372,
+    "Taluk": "Sivagangai",
+    "Village": "Keela Sooravanthi",
+    "Area": 8.7,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 373,
+    "Taluk": "Sivagangai",
+    "Village": "Keelapidavur",
+    "Area": 118.95,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 374,
+    "Taluk": "Sivagangai",
+    "Village": "Kilathari",
+    "Area": 18.2,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 375,
+    "Taluk": "Sivagangai",
+    "Village": "Kilukiluppaithavu",
+    "Area": 52.93,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 376,
+    "Taluk": "Sivagangai",
+    "Village": "Kodikkadukadamboorani",
+    "Area": 368.75,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 377,
+    "Taluk": "Sivagangai",
+    "Village": "Konthagan Perunkarai",
+    "Area": 29.65,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 378,
+    "Taluk": "Sivagangai",
+    "Village": "Kudanjadi",
+    "Area": 52.27,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 379,
+    "Taluk": "Sivagangai",
+    "Village": "Kuruthanivariyendhal",
+    "Area": 25.14,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 380,
+    "Taluk": "Sivagangai",
+    "Village": "Madakottai Maravankulam",
+    "Area": 24.22,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 381,
+    "Taluk": "Sivagangai",
+    "Village": "Maddakottai",
+    "Area": 110.48,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 382,
+    "Taluk": "Sivagangai",
+    "Village": "Mallal",
+    "Area": 154.2,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 383,
+    "Taluk": "Sivagangai",
+    "Village": "Mangudi",
+    "Area": 95.6,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 384,
+    "Taluk": "Sivagangai",
+    "Village": "Maravankulam",
+    "Area": 39.51,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 385,
+    "Taluk": "Sivagangai",
+    "Village": "Melapidavur",
+    "Area": 45.17,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 386,
+    "Taluk": "Sivagangai",
+    "Village": "Mudhukkoorani",
+    "Area": 0.06,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 387,
+    "Taluk": "Sivagangai",
+    "Village": "Naranamangalam",
+    "Area": 1.72,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 388,
+    "Taluk": "Sivagangai",
+    "Village": "Narthakudi",
+    "Area": 164.27,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 389,
+    "Taluk": "Sivagangai",
+    "Village": "Nedodai",
+    "Area": 2.85,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 390,
+    "Taluk": "Sivagangai",
+    "Village": "Odaikulam",
+    "Area": 74.48,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 391,
+    "Taluk": "Sivagangai",
+    "Village": "Ottamuthukanmoi",
+    "Area": 210.45,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 392,
+    "Taluk": "Sivagangai",
+    "Village": "Oyyavandan",
+    "Area": 141.34,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 393,
+    "Taluk": "Sivagangai",
+    "Village": "pachatti",
+    "Area": 41.14,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 394,
+    "Taluk": "Sivagangai",
+    "Village": "Periyakannanoor",
+    "Area": 430.31,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 395,
+    "Taluk": "Sivagangai",
+    "Village": "Pillathi",
+    "Area": 64.58,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 396,
+    "Taluk": "Sivagangai",
+    "Village": "Ponnampatti",
+    "Area": 63.16,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 397,
+    "Taluk": "Sivagangai",
+    "Village": "Sembanoor",
+    "Area": 401.47,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 398,
+    "Taluk": "Sivagangai",
+    "Village": "Sholapuram",
+    "Area": 12.32,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 399,
+    "Taluk": "Sivagangai",
+    "Village": "Siramam",
+    "Area": 12.94,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 400,
+    "Taluk": "Sivagangai",
+    "Village": "Sooravanthi",
+    "Area": 46,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 401,
+    "Taluk": "Sivagangai",
+    "Village": "Sooravanthi  Kilukiluppai thavu",
+    "Area": 59.26,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 402,
+    "Taluk": "Sivagangai",
+    "Village": "Thachanethal",
+    "Area": 70.19,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 403,
+    "Taluk": "Sivagangai",
+    "Village": "Thadiamangalam",
+    "Area": 171.78,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 404,
+    "Taluk": "Sivagangai",
+    "Village": "Thaniveeranenthal",
+    "Area": 110.06,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 405,
+    "Taluk": "Sivagangai",
+    "Village": "Thirani",
+    "Area": 51.01,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 406,
+    "Taluk": "Sivagangai",
+    "Village": "Udaikulam",
+    "Area": 14.46,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 407,
+    "Taluk": "Sivagangai",
+    "Village": "Udayarenthal",
+    "Area": 3.5,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 408,
+    "Taluk": "Sivagangai",
+    "Village": "Uyyavandan",
+    "Area": 136.97,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 409,
+    "Taluk": "Sivagangai",
+    "Village": "Veeranpunjai",
+    "Area": 129.06,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 410,
+    "Taluk": "Sivagangai",
+    "Village": "Velaneri",
+    "Area": 55.52,
+    "District": "SIVAGANGAI"
+  },
+  {
+    "Sl.No": 411,
+    "Taluk": "Vadipatti",
+    "Village": "Athikaripatti",
+    "Area": 34.85,
+    "District": "MADURAI"
+  },
+  {
+    "Sl.No": 412,
+    "Taluk": "Vadipatti",
+    "Village": "Chinnareddypatti",
+    "Area": 14.7,
+    "District": "MADURAI"
+  },
+  {
+    "Sl.No": 413,
+    "Taluk": "Vadipatti",
+    "Village": "Chinthamani",
+    "Area": 27.29,
+    "District": "MADURAI"
+  },
+  {
+    "Sl.No": 414,
+    "Taluk": "Vadipatti",
+    "Village": "Maththakarai",
+    "Area": 206.43,
+    "District": "MADURAI"
+  },
+  {
+    "Sl.No": 415,
+    "Taluk": "Vadipatti",
+    "Village": "T. Vadipatti",
+    "Area": 1.1,
+    "District": "MADURAI"
+  },
+  {
+    "Sl.No": 416,
+    "Taluk": "Madurai South",
+    "Village": "Avaniyapuram",
+    "Area": 36.57,
+    "District": "MADURAI"
+  },
+  {
+    "Sl.No": 417,
+    "Taluk": "Madurai South",
+    "Village": "Samanatham",
+    "Area": 39.27,
+    "District": "MADURAI"
+  },
+  {
+    "Sl.No": 418,
+    "Taluk": "Madurai South",
+    "Village": "Vellore",
+    "Area": 125.06,
+    "District": "MADURAI"
+  },
+  {
+    "Sl.No": 419,
+    "Taluk": "Melur",
+    "Village": "Chittulotti",
+    "Area": 19.83,
+    "District": "MADURAI"
+  },
+  {
+    "Sl.No": 420,
+    "Taluk": "Melur",
+    "Village": "Pappinaickkanpatti",
+    "Area": 130.78,
+    "District": "MADURAI"
+  },
+  {
+    "Sl.No": 421,
+    "Taluk": "Usilampatti",
+    "Village": "Thenur",
+    "Area": 4.37,
+    "District": "MADURAI"
+  },
+  {
+    "Sl.No": 422,
+    "Taluk": "Usilampatti",
+    "Village": "Muthunagaiya Puram",
+    "Area": 23.7,
+    "District": "MADURAI"
+  },
+  {
+    "Sl.No": 423,
+    "Taluk": "Thirumangalam",
+    "Village": "Mathippanur",
+    "Area": 65.09,
+    "District": "MADURAI"
+  },
+  {
+    "Sl.No": 424,
+    "Taluk": "Kodaikanal",
+    "Village": "Pandirimalai Kannivadi Hill",
+    "Area": 176.79,
+    "District": "DINUGUL"
+  },
+  {
+    "Sl.No": 425,
+    "Taluk": "Dindigul",
+    "Village": "Puththur",
+    "Area": 24.16,
+    "District": "DINUGUL"
+  },
+  {
+    "Sl.No": 426,
+    "Taluk": "Vedasandur",
+    "Village": "R. Pudhukottai",
+    "Area": 134.97,
+    "District": "DINUGUL"
+  },
+  {
+    "Sl.No": 427,
+    "Taluk": "Oddanchatram",
+    "Village": "Sekkapatti",
+    "Area": 107.95,
+    "District": "DINUGUL"
+  },
+  {
+    "Sl.No": 428,
+    "Taluk": "Palani",
+    "Village": "Viralipatti",
+    "Area": 518.53,
+    "District": "DINUGUL"
+  },
+  {
+    "Sl.No": 429,
+    "Taluk": "Iluppur",
+    "Village": "Irunthirapatti",
+    "Area": 269.36,
+    "District": "PUDUKOTTAI"
+  },
+  {
+    "Sl.No": 430,
+    "Taluk": "Iluppur",
+    "Village": "Nangupatti",
+    "Area": 67.99,
+    "District": "PUDUKOTTAI"
+  },
+  {
+    "Sl.No": 431,
+    "Taluk": "Thirumayam",
+    "Village": "Rappoosal",
+    "Area": 127.14,
+    "District": "PUDUKOTTAI"
+  },
+  {
+    "Sl.No": 432,
+    "Taluk": "Alangudi",
+    "Village": "Thiruvanthavar",
+    "Area": 6.94,
+    "District": "PUDUKOTTAI"
+  },
+  {
+    "Sl.No": 433,
+    "Taluk": "Gandarvakottai",
+    "Village": "Vettukkadu",
+    "Area": 290.32,
+    "District": "PUDUKOTTAI"
+  },
+  {
+    "Sl.No": 434,
+    "Taluk": "Devanoor Nadu",
+    "Village": "Namakkal",
+    "Area": 611.62,
+    "District": "NAMMAKKAL"
+  },
+  {
+    "Sl.No": 435,
+    "Taluk": "Guntoor Nadu",
+    "Village": "Namakkal",
+    "Area": 4220.19,
+    "District": "NAMMAKKAL"
+  },
+  {
+    "Sl.No": 436,
+    "Taluk": "Vaalavanthi Nadu",
+    "Village": "Kolli Hills",
+    "Area": 1787.24,
+    "District": "NAMMAKKAL"
+  },
+  {
+    "Sl.No": 437,
+    "Taluk": "Tindivanam",
+    "Village": "Kovadi",
+    "Area": 30.47,
+    "District": "VILLUPURAM"
+  },
+  {
+    "Sl.No": 438,
+    "Taluk": "Tindivanam",
+    "Village": "Nallavur",
+    "Area": 31.36,
+    "District": "VILLUPURAM"
+  },
+  {
+    "Sl.No": 439,
+    "Taluk": "Tindivanam",
+    "Village": "Palamnkal",
+    "Area": 6.51,
+    "District": "VILLUPURAM"
+  },
+  {
+    "Sl.No": 440,
+    "Taluk": "Kallakurichi",
+    "Village": "Peravur",
+    "Area": 610.78,
+    "District": "VILLUPURAM"
+  },
+  {
+    "Sl.No": 441,
+    "Taluk": "Tindivanam",
+    "Village": "Tenkodipakkam",
+    "Area": 109.91,
+    "District": "VILLUPURAM"
+  },
+  {
+    "Sl.No": 442,
+    "Taluk": "Kanchipuram",
+    "Village": "Kondamagalam",
+    "Area": 42.92,
+    "District": "KanchiPuram"
+  },
+  {
+    "Sl.No": 443,
+    "Taluk": "Kanchipuram",
+    "Village": "Sirupenaiyur,",
+    "Area": 1.98,
+    "District": "KanchiPuram"
+  },
+  {
+    "Sl.No": 444,
+    "Taluk": "Kanchipuram",
+    "Village": "Thiruvanthavar",
+    "Area": 64.86,
+    "District": "KanchiPuram"
+  },
+  {
+    "Sl.No": 445,
+    "Taluk": "Gangavalli",
+    "Village": "Pachamalai�",
+    "Area": 537.1,
+    "District": "SALEM"
+  },
+  {
+    "Sl.No": 446,
+    "Taluk": "Bodinayakannur",
+    "Village": "Rasingapuram",
+    "Area": 375.66,
+    "District": "THENI"
+  },
+  {
+    "Sl.No": 447,
+    "Taluk": "Thottiyam",
+    "Village": "Kerudamangalam",
+    "Area": 234.23,
+    "District": "Tiruchirappalli"
+  },
+  {
+    "Sl.No": 448,
+    "Taluk": "Thottiyam",
+    "Village": "Kollakkanatham",
+    "Area": 125.81,
+    "District": "Tiruchirappalli"
+  },
+  {
+    "Sl.No": 449,
+    "Taluk": "Thottiyam",
+    "Village": "Kombai",
+    "Area": 1543.43,
+    "District": "Tiruchirappalli"
+  },
+  {
+    "Sl.No": 450,
+    "Taluk": "Thuraiyur",
+    "Village": "Nambukurichy",
+    "Area": 549.9,
+    "District": "Tiruchirappalli"
+  },
+  {
+    "Sl.No": 451,
+    "Taluk": "Thuraiyur",
+    "Village": "Periakurukkai",
+    "Area": 231.515,
+    "District": "Tiruchirappalli"
+  },
+  {
+    "Sl.No": 452,
+    "Taluk": "Thottiyam",
+    "Village": "Sadhurbagham",
+    "Area": 81.91,
+    "District": "Tiruchirappalli"
+  },
+  {
+    "Sl.No": 453,
+    "Taluk": "Thottiyam",
+    "Village": "Saradamangalam",
+    "Area": 142.65,
+    "District": "Tiruchirappalli"
+  },
+  {
+    "Sl.No": 454,
+    "Taluk": "Thottiyam",
+    "Village": "Sobanapuram",
+    "Area": 372.87,
+    "District": "Tiruchirappalli"
+  },
+  {
+    "Sl.No": 455,
+    "Taluk": "Thottiyam",
+    "Village": "Thappai",
+    "Area": 86.11,
+    "District": "Tiruchirappalli"
+  },
+  {
+    "Sl.No": 456,
+    "Taluk": "Thottiyam",
+    "Village": "Tharanipplayam",
+    "Area": 33.45,
+    "District": "Tiruchirappalli"
+  },
+  {
+    "Sl.No": 457,
+    "Taluk": "Thuraiyur",
+    "Village": "Thenparanadu",
+    "Area": 892.84,
+    "District": "Tiruchirappalli"
+  },
+  {
+    "Sl.No": 458,
+    "Taluk": "Thottiyam",
+    "Village": "Theranippalaiyam",
+    "Area": 195.61,
+    "District": "Tiruchirappalli"
+  },
+  {
+    "Sl.No": 459,
+    "Taluk": "Thottiyam",
+    "Village": "Thirupattur",
+    "Area": 166.04,
+    "District": "Tiruchirappalli"
+  },
+  {
+    "Sl.No": 460,
+    "Taluk": "Thottiyam",
+    "Village": "Vannadu",
+    "Area": 2339.15,
+    "District": "Tiruchirappalli"
+  },
+  {
+    "Sl.No": 461,
+    "Taluk": "Paramakudi",
+    "Village": "A. Punaivasal",
+    "Area": 408.27,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 462,
+    "Taluk": "Kamuthi",
+    "Village": "A. Thanaikudi",
+    "Area": 18.825,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 463,
+    "Taluk": "Paramakudi",
+    "Village": "A. Usilankulam",
+    "Area": 566.93,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 464,
+    "Taluk": "Paramakudi",
+    "Village": "Aappanoor",
+    "Area": 818.53,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 465,
+    "Taluk": "Kamuthi",
+    "Village": "Achadi Pirambu",
+    "Area": 399.45,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 466,
+    "Taluk": "Paramakudi",
+    "Village": "Achunthan Vayal",
+    "Area": 717.77,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 467,
+    "Taluk": "Kamuthi",
+    "Village": "Ammanampatti",
+    "Area": 3.05,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 468,
+    "Taluk": "Paramakudi",
+    "Village": "Ammapatti",
+    "Area": 16.47,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 469,
+    "Taluk": "Paramakudi",
+    "Village": "Arapothu",
+    "Area": 227.42,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 470,
+    "Taluk": "Paramakudi",
+    "Village": "Arasanoor / Agaram",
+    "Area": 13.08,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 471,
+    "Taluk": "Paramakudi",
+    "Village": "Ariyamanglam",
+    "Area": 358.22,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 472,
+    "Taluk": "Ramanathapuram",
+    "Village": "Avathandai",
+    "Area": 56.47,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 473,
+    "Taluk": "Kamuthi",
+    "Village": "D. Valasubramaniapuram",
+    "Area": 183.81,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 474,
+    "Taluk": "Paramakudi",
+    "Village": "Ekkomban",
+    "Area": 13.48,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 475,
+    "Taluk": "Paramakudi",
+    "Village": "Eluvanoor",
+    "Area": 175,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 476,
+    "Taluk": "Paramakudi",
+    "Village": "Ariyamangala",
+    "Area": 21.46,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 477,
+    "Taluk": "Paramakudi",
+    "Village": "Erumaipatti",
+    "Area": 67.12,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 478,
+    "Taluk": "Ramanathapuram",
+    "Village": "Ervadi",
+    "Area": 841.025,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 479,
+    "Taluk": "Paramakudi",
+    "Village": "Ettiseri",
+    "Area": 23.18,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 480,
+    "Taluk": "Ramanathapuram",
+    "Village": "Idivilagi",
+    "Area": 217.82,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 481,
+    "Taluk": "Ramanathapuram",
+    "Village": "Ilansembur",
+    "Area": 147.61,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 482,
+    "Taluk": "Ramanathapuram",
+    "Village": "Ithambadal",
+    "Area": 123.65,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 483,
+    "Taluk": "Ramanathapuram",
+    "Village": "K. Veppankulam /Manthoppu",
+    "Area": 52.94,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 484,
+    "Taluk": "Kamuthi",
+    "Village": "Kadampankulam",
+    "Area": 349.91,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 485,
+    "Taluk": "Ramanathapuram",
+    "Village": "Kakkudi",
+    "Area": 63.86,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 486,
+    "Taluk": "Kamuthi",
+    "Village": "Kalari",
+    "Area": 561.86,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 487,
+    "Taluk": "Kamuthi",
+    "Village": "Kallakkari",
+    "Area": 22.47,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 488,
+    "Taluk": "Kamuthi",
+    "Village": "Kamuthi",
+    "Area": 89.32,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 489,
+    "Taluk": "Kamuthi",
+    "Village": "Kavadipatti",
+    "Area": 18.32,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 490,
+    "Taluk": "Kamuthi",
+    "Village": "Kavanoor",
+    "Area": 105.32,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 491,
+    "Taluk": "Kamuthi",
+    "Village": "KEELA PARUTHI",
+    "Area": 111.56,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 492,
+    "Taluk": "Kamuthi",
+    "Village": "Keela Ramanathi",
+    "Area": 28.2,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 493,
+    "Taluk": "Kamuthi",
+    "Village": "Keelakulam",
+    "Area": 533.86,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 494,
+    "Taluk": "Kamuthi",
+    "Village": "Keela Mudimannarkottai",
+    "Area": 380.16,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 495,
+    "Taluk": "Kamuthi",
+    "Village": "Keelaparuthiyur",
+    "Area": 4.52,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 496,
+    "Taluk": "Kamuthi",
+    "Village": "Keelathooval",
+    "Area": 83.45,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 497,
+    "Taluk": "Kamuthi",
+    "Village": "Kilavaneri",
+    "Area": 97.75,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 498,
+    "Taluk": "Kamuthi",
+    "Village": "Kkaadamangalam Group",
+    "Area": 16.48,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 499,
+    "Taluk": "Ramanathapuram",
+    "Village": "Kokkarasankottai",
+    "Area": 96.37,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 500,
+    "Taluk": "Kamuthi",
+    "Village": "Kompoothy",
+    "Area": 76.01,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 501,
+    "Taluk": "Ramanathapuram",
+    "Village": "Koodakkulam",
+    "Area": 12.23,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 502,
+    "Taluk": "Ramanathapuram",
+    "Village": "Koovarkoottam",
+    "Area": 22.12,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 503,
+    "Taluk": "Kamuthi",
+    "Village": "Kovilankulam",
+    "Area": 330.225,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 504,
+    "Taluk": "Paramakudi",
+    "Village": "Arapothu & oth as per GPA",
+    "Area": 54.08,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 505,
+    "Taluk": "Ramanathapuram",
+    "Village": "Kulapatham",
+    "Area": 48.58,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 506,
+    "Taluk": "Kamuthi",
+    "Village": "Kumariyendal",
+    "Area": 29.43,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 507,
+    "Taluk": "Ramanathapuram",
+    "Village": "Lanthai",
+    "Area": 68.02,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 508,
+    "Taluk": "Kamuthi",
+    "Village": "M. Pudhukulam",
+    "Area": 2.36,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 509,
+    "Taluk": "Ramanathapuram",
+    "Village": "Mandalamanikkam",
+    "Area": 114.15,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 510,
+    "Taluk": "Ramanathapuram",
+    "Village": "Manickkaneri",
+    "Area": 27.1,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 511,
+    "Taluk": "Kamuthi",
+    "Village": "Mayilangulam",
+    "Area": 29.705,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 512,
+    "Taluk": "Paramakudi",
+    "Village": "Meenangudi",
+    "Area": 161.83,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 513,
+    "Taluk": "Kamuthi",
+    "Village": "Mela Kanjirangulam",
+    "Area": 2.21,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 514,
+    "Taluk": "Kamuthi",
+    "Village": "Mela Mudimannarkottai",
+    "Area": 11.15,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 515,
+    "Taluk": "Kamuthi",
+    "Village": "Mela Ramanathi",
+    "Area": 341.35,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 516,
+    "Taluk": "Kamuthi",
+    "Village": "Melakulam",
+    "Area": 38.9,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 517,
+    "Taluk": "Kamuthi",
+    "Village": "Melamudimannarkkottai",
+    "Area": 62.2,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 518,
+    "Taluk": "Kamuthi",
+    "Village": "Melaramanathi",
+    "Area": 79.55,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 519,
+    "Taluk": "Ramanathapuram",
+    "Village": "Melaselvanur",
+    "Area": 444.91,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 520,
+    "Taluk": "Ramanathapuram",
+    "Village": "Mookaiyur",
+    "Area": 124.69,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 521,
+    "Taluk": "Kamuthi",
+    "Village": "Moolakarajpatti",
+    "Area": 0.93,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 522,
+    "Taluk": "Kamuthi",
+    "Village": "Morekulam",
+    "Area": 8.9,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 523,
+    "Taluk": "Paramakudi",
+    "Village": "Mosukudi",
+    "Area": 100.79,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 524,
+    "Taluk": "Kamuthi",
+    "Village": "Mudhaliar Pudhukulam",
+    "Area": 649.7,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 525,
+    "Taluk": "Kamuthi",
+    "Village": "Mudimannarkottai",
+    "Area": 45.62,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 526,
+    "Taluk": "Kamuthi",
+    "Village": "Mullikulam",
+    "Area": 10.36,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 527,
+    "Taluk": "Kamuthi",
+    "Village": "Muthal Nadu",
+    "Area": 224.81,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 528,
+    "Taluk": "Kamuthi",
+    "Village": "Muthaliar Pudukulam",
+    "Area": 246.47,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 529,
+    "Taluk": "Kamuthi",
+    "Village": "Nallur",
+    "Area": 145.12,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 530,
+    "Taluk": "Ramanathapuram",
+    "Village": "Narippaiyur",
+    "Area": 58.885,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 531,
+    "Taluk": "Ramanathapuram",
+    "Village": "Natham Kulapatham / Velanoor",
+    "Area": 40.56,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 532,
+    "Taluk": "Kamuthi",
+    "Village": "Nedunkulam",
+    "Area": 14.41,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 533,
+    "Taluk": "Kamuthi",
+    "Village": "Neeravi",
+    "Area": 670.55,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 534,
+    "Taluk": "Kamuthi",
+    "Village": "Neerkundam",
+    "Area": 6.2,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 535,
+    "Taluk": "Ramanathapuram",
+    "Village": "Orivayal",
+    "Area": 1065.14,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 536,
+    "Taluk": "Ramanathapuram",
+    "Village": "Therakurichi",
+    "Area": 6.63,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 537,
+    "Taluk": "Ramanathapuram",
+    "Village": "P. Muthuramalingapuram",
+    "Area": 650.78,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 538,
+    "Taluk": "Ramanathapuram",
+    "Village": "P. P. Yendal",
+    "Area": 3.53,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 539,
+    "Taluk": "Ramanathapuram",
+    "Village": "PAMANATHAPURAM",
+    "Area": 2.43,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 540,
+    "Taluk": "Kamuthi",
+    "Village": "Pammanendal",
+    "Area": 530.09,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 541,
+    "Taluk": "Ramanathapuram",
+    "Village": "Panaiyaliyenthal",
+    "Area": 172.51,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 542,
+    "Taluk": "Ramanathapuram",
+    "Village": "Peraiyur",
+    "Area": 125.62,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 543,
+    "Taluk": "Ramanathapuram",
+    "Village": "Periapitchaipillaiyendhal",
+    "Area": 54.4,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 544,
+    "Taluk": "Kamuthi",
+    "Village": "Perunazhi",
+    "Area": 33.76,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 545,
+    "Taluk": "Kamuthi",
+    "Village": "Perungaloor",
+    "Area": 9.57,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 546,
+    "Taluk": "Ramanathapuram",
+    "Village": "Peruvayal",
+    "Area": 81.82,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 547,
+    "Taluk": "Ramanathapuram",
+    "Village": "Illi Kadambankulam / Nedunkulam / Pothik",
+    "Area": 7.59,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 548,
+    "Taluk": "Ramanathapuram",
+    "Village": "Pidaraiyendal",
+    "Area": 47.47,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 549,
+    "Taluk": "Ramanathapuram",
+    "Village": "Pirakkalur",
+    "Area": 28.75,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 550,
+    "Taluk": "Ramanathapuram",
+    "Village": "Ramanathapuram",
+    "Area": 21.24,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 551,
+    "Taluk": "Ramanathapuram",
+    "Village": "PITCHIPILLAIYENDHAL",
+    "Area": 7.82,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 552,
+    "Taluk": "Ramanathapuram",
+    "Village": "Polikal",
+    "Area": 19.06,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 553,
+    "Taluk": "Ramanathapuram",
+    "Village": "Pondhampuli",
+    "Area": 346.31,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 554,
+    "Taluk": "Ramanathapuram",
+    "Village": "Posukkudi",
+    "Area": 306.84,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 555,
+    "Taluk": "Ramanathapuram",
+    "Village": "Pothikulam",
+    "Area": 15.44,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 556,
+    "Taluk": "Ramanathapuram",
+    "Village": "Pukkulam",
+    "Area": 99.09,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 557,
+    "Taluk": "Ramanathapuram",
+    "Village": "Pullandai",
+    "Area": 402.69,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 558,
+    "Taluk": "Ramanathapuram",
+    "Village": "Pullangudi",
+    "Area": 78.82,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 559,
+    "Taluk": "Ramanathapuram",
+    "Village": "Pulvaikulam",
+    "Area": 0.68,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 560,
+    "Taluk": "Kamuthi",
+    "Village": "Punavasal",
+    "Area": 346,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 561,
+    "Taluk": "Kamuthi",
+    "Village": "Puthuruthi",
+    "Area": 26.95,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 562,
+    "Taluk": "Kamuthi",
+    "Village": "Rajasuriyamadai",
+    "Area": 807.09,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 563,
+    "Taluk": "Kamuthi",
+    "Village": "Ramanathi",
+    "Area": 8.28,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 564,
+    "Taluk": "Kamuthi",
+    "Village": "S. Kodidulam",
+    "Area": 46.02,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 565,
+    "Taluk": "Kamuthi",
+    "Village": "S. Tharaikudi",
+    "Area": 89.8,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 566,
+    "Taluk": "Kamuthi",
+    "Village": "Sadaiyanendhal",
+    "Area": 55.785,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 567,
+    "Taluk": "Kamuthi",
+    "Village": "Saiyalur",
+    "Area": 118.39,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 568,
+    "Taluk": "Ramanathapuram",
+    "Village": "Sarai",
+    "Area": 39.05,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 569,
+    "Taluk": "Ramanathapuram",
+    "Village": "Sathanur",
+    "Area": 22.19,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 570,
+    "Taluk": "Ramanathapuram",
+    "Village": "Sellur",
+    "Area": 47.175,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 571,
+    "Taluk": "Ramanathapuram",
+    "Village": "SENGAPPADAI",
+    "Area": 118.91,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 572,
+    "Taluk": "Kamuthi",
+    "Village": "Singapuliyapatti",
+    "Area": 20,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 573,
+    "Taluk": "Kamuthi",
+    "Village": "Sirugudi",
+    "Area": 131.14,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 574,
+    "Taluk": "Kamuthi",
+    "Village": "Siruvayal",
+    "Area": 110.17,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 575,
+    "Taluk": "Kamuthi",
+    "Village": "Sithur",
+    "Area": 5.24,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 576,
+    "Taluk": "Ramanathapuram",
+    "Village": "Soodiyar",
+    "Area": 163.59,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 577,
+    "Taluk": "Ramanathapuram",
+    "Village": "Soorankottai",
+    "Area": 181.62,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 578,
+    "Taluk": "Kamuthi",
+    "Village": "Stharakkudi",
+    "Area": 69.04,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 579,
+    "Taluk": "Kamuthi",
+    "Village": "Suvathan",
+    "Area": 107.025,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 580,
+    "Taluk": "Ramanathapuram",
+    "Village": "T. Veppankulam",
+    "Area": 624.63,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 581,
+    "Taluk": "Kamuthi",
+    "Village": "Thaduthalankottai",
+    "Area": 44.41,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 582,
+    "Taluk": "Kamuthi",
+    "Village": "Thaniyan Kutam, A. Usilankulam",
+    "Area": 105.46,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 583,
+    "Taluk": "Kamuthi",
+    "Village": "Thanjakkoor",
+    "Area": 71.98,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 584,
+    "Taluk": "Ramanathapuram",
+    "Village": "THARAIKUDI",
+    "Area": 10.44,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 585,
+    "Taluk": "Ramanathapuram",
+    "Village": "Therakurichi, Nedunkulam",
+    "Area": 3.7,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 586,
+    "Taluk": "Kamuthi",
+    "Village": "Uthirakosamangai",
+    "Area": 1857.65,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 587,
+    "Taluk": "Kamuthi",
+    "Village": "Thulaiyangulam",
+    "Area": 10.09,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 588,
+    "Taluk": "Kamuthi",
+    "Village": "Ulayoor",
+    "Area": 37.79,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 589,
+    "Taluk": "Kamuthi",
+    "Village": "Usilankulam",
+    "Area": 105.19,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 590,
+    "Taluk": "Ramanathapuram",
+    "Village": "Vaigai",
+    "Area": 362.7,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 591,
+    "Taluk": "Kamuthi",
+    "Village": "Vairavanenthal",
+    "Area": 14.31,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 592,
+    "Taluk": "Ramanathapuram",
+    "Village": "Vallanthai",
+    "Area": 63.5,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 593,
+    "Taluk": "Ramanathapuram",
+    "Village": "Vannivayal",
+    "Area": 163.76,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 594,
+    "Taluk": "Kamuthi",
+    "Village": "Vattamuthan",
+    "Area": 17.84,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 595,
+    "Taluk": "Kamuthi",
+    "Village": "Velangula",
+    "Area": 78.88,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 596,
+    "Taluk": "Kamuthi",
+    "Village": "Velanoor",
+    "Area": 678.74,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 597,
+    "Taluk": "Kamuthi",
+    "Village": "Vellaiyapuram",
+    "Area": 0.74,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 598,
+    "Taluk": "Ramanathapuram",
+    "Village": "Veppankulam",
+    "Area": 85.62,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 599,
+    "Taluk": "Kamuthi",
+    "Village": "Villanendhal",
+    "Area": 67.9,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 600,
+    "Taluk": "Kamuthi",
+    "Village": "Karumal",
+    "Area": 142.15,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 601,
+    "Taluk": "Kamuthi",
+    "Village": "Sambakulam",
+    "Area": 124.27,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 602,
+    "Taluk": "Kamuthi",
+    "Village": "Kondulavi",
+    "Area": 51.62,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 603,
+    "Taluk": "Kamuthi",
+    "Village": "Sempadakki",
+    "Area": 29.34,
+    "District": "RAMANATHAPURAM"
+  },
+  {
+    "Sl.No": 604,
+    "Taluk": "Kamuthi",
+    "Village": "Kidathirukkai",
+    "Area": 19.07,
+    "District": "RAMANATHAPURAM"
+  }
+]
