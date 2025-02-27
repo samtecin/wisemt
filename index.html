@@ -103,7 +103,7 @@ https://templatemo.com/tm-591-villa-agency
     </div>
   </header>
   <!-- ***** Header Area End ***** -->
-<!--
+
   <script>
     fetch('properties.json')
       .then(response => response.json())
@@ -122,12 +122,12 @@ https://templatemo.com/tm-591-villa-agency
         });
       });
   </script>
--->  
+  
   <div class="main-banner">
     <div class="owl-carousel owl-banner" style="background: linear-gradient(135deg, #a8e063, #56ab2f);"></div>
       <div class="item item-1">
       <div class="header-text"></div>
-          <span class="category">Tenkasi,Tirunelveli,Tuticorin,Ramanathapuram,VirudhaNagar,Madurai,Sivagangai--<em>Tamil Nadu</em></span>
+          <span class="category">Tenkasi,Tirunelveli,Tuticorin,Ramanathapuram,VirudhaNagar,Madurai,Sivagangai<em>Tamil Nadu</em></span>
           <h2>"Hurry!<br>Secure the Best Land for You in Tamil Nadu!"</h2>
         </div>
       </div>
@@ -542,17 +542,14 @@ text-align: center;">>
     </div>
 
 <!--BEGIN SEARCH PROPERTIES-->
-    <!--  <section id=""
     
- <!-- <section id="propertyList"> -->
+ <section id="propertyList">
     <h2>Find Your Perfect Land Parcel</h2>
     <h3>Coming Soon.</h3>
     <p>Explore our bulk land listings across Tamil Nadu.</p>
     <button onclick="scrollToProperties()">Browse Properties</button>
- </section> -->
-        <h2>Find Your Perfect Land Parcel</h2>
-    <h3>Coming Soon.</h3>
-<!-- <section id="search-filters">
+ </section>
+ <section id="search-filters">
     <input type="text" id="search" placeholder="Search properties...">
     <select id="location">
         <option value="">Select Location</option>
@@ -564,11 +561,11 @@ text-align: center;">>
         <option value="">Select Area Range</option>
     </select>
     <button onclick="filterProperties()">Search</button>
- </section> -->
+ </section>
 
  <section id="properties">
     <h2>Available Land Parcels</h2>
-   <!-- <div id="property-list" class="grid"></div> -->
+    <div id="property-list" class="grid"></div>
  </section>
 </div>
 
@@ -577,101 +574,74 @@ text-align: center;">>
 
 
 <!-- begining of bulletpoints-->
-<style>
-  .info-table ul {
-    list-style: none;
-    background: linear-gradient(135deg, #8fbee7, #727ffa);
-    padding: 5px;
-    border-radius: 5px;
-    margin: 0;
-  }
-
-  .info-table ul li {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 6px 7px;
-    border-bottom: 1px solid #fff;
-    font-size: 10px;
-    font-weight: 250;
-    color: #fff;
-  }
-
-  .img-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .img-fluid {
-    max-width: 80%;
-    height: auto;
-    border-radius: 8px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-  }
-
-  @media (max-width: 768px) {
-    .info-table ul {
-      text-align: center;
-    }
-    
-    .img-container {
-      margin-top: 5px;
-      margin-bottom: 5px;
-    }
-  }
-</style>
-
-<div class="container"  style="
-background: url('assets/images/bg-img3.jpg') no-repeat center center / cover;
-padding: 50px 0;
-min-height: 300px; /* Ensures the section is visible */
-display: flex;
-align-items: center;
-justify-content: center;
-text-align: center;">>
-  <div class="row align-items-center">
-    <!-- Column 1 - Left Side List -->
+<div class="container py-4">
+  <div class="row text-center">
+    <!-- Column 1 -->
     <div class="col-md-4">
       <div class="info-table">
-        <ul class="d-flex flex-column justify-content-between">
-          <li><strong style="color: green;">Residential Lands</strong> <span>Plots for Individual Homes</span></li>
-          <li><strong style="color: green;">Gated Community Plots</strong> <span>Luxury Residential Lands</span></li>
-          <li><strong style="color: green;">Villa Plots</strong> <span>Farmhouse Lands</span></li>
-          <li><strong style="color: green;">Industrial Lands</strong> <span>Manufacturing & Factory Lands</span></li>
-          <li><strong style="color: green;">Warehouse & Logistics Lands</strong> <span>SEZ Lands</span></li>
-          <li><strong style="color: green;">Mining & Extraction Lands</strong> <span>Export & Industrial Park</span></li>
-          <li><strong style="color: green;">Institutional Lands</strong> <span>Schools & Universities</span></li>
-          <li><strong style="color: green;">Renewable Energy Lands</strong> <span>Solar & Wind Projects</span></li>
+        <ul class="list-unstyled">
+          <li class="land-item"><strong>Residential</strong> <span>Home Plots</span></li>
+          <li class="land-item"><strong>Gated Plots</strong> <span>Luxury Lands</span></li>
+          <li class="land-item"><strong>Villa Plots</strong> <span>Farmhouse</span></li>
+          <li class="land-item"><strong>Industrial</strong> <span>Factory Lands</span></li>
+          <li class="land-item"><strong>Warehousing</strong> <span>SEZ Zones</span></li>
         </ul>
       </div>
     </div>
 
-    <!-- Column 2 - Image -->
-    <div class="col-md-4 img-container">
-      <img src="assets/images/deal-01.jpg" alt="Tourism Land" class="img-fluid">
-    </div>
-
-    <!-- Column 3 - Right Side List -->
+    <!-- Column 2 -->
     <div class="col-md-4">
       <div class="info-table">
-        <ul class="d-flex flex-column justify-content-between">
-          <li><strong style="color: green;">Commercial Lands</strong> <span>Retail & Shopping Center Lands</span></li>
-          <li><strong style="color: green;">Office Space Lands</strong> <span>IT Park & Business Hub Lands</span></li>
-          <li><strong style="color: green;">Hotel & Resort Lands</strong> <span>Hospital Lands</span></li>
-          <li><strong style="color: green;">Agricultural Lands</strong> <span>Organic Farming Lands</span></li>
-          <li><strong style="color: green;">Dairy & Poultry Farm</strong> <span>Horticulture & Plantation</span></li>
-          <li><strong style="color: green;">Vineyard & Orchard</strong> <span>Grazing & Livestock Farming</span></li>
-          <li><strong style="color: green;">Recreational & Tourism Lands</strong> <span>Resort & Beachfront</span></li>
-          <li><strong style="color: green;">Holiday Home Lands</strong> <span>Adventure & Amusement Park</span></li>
+        <ul class="list-unstyled">
+          <li class="land-item"><strong>Commercial</strong> <span>Retail Spaces</span></li>
+          <li class="land-item"><strong>Office Lands</strong> <span>IT Parks</span></li>
+          <li class="land-item"><strong>Hotels & Resorts</strong> <span>Tourism</span></li>
+          <li class="land-item"><strong>Agriculture</strong> <span>Organic Farms</span></li>
+          <li class="land-item"><strong>Dairy & Poultry</strong> <span>Plantations</span></li>
         </ul>
       </div>
     </div>
-  </div>
 
+    <!-- Column 3 -->
+    <div class="col-md-4">
+      <div class="info-table">
+        <ul class="list-unstyled">
+          <li class="land-item"><strong>Vineyards</strong> <span>Orchards</span></li>
+          <li class="land-item"><strong>Tourism Lands</strong> <span>Beachfront</span></li>
+          <li class="land-item"><strong>Holiday Homes</strong> <span>Resorts</span></li>
+          <li class="land-item"><strong>Institutional</strong> <span>Schools</span></li>
+          <li class="land-item"><strong>Renewables</strong> <span>Solar & Wind</span></li>
+        </ul>
+      </div>
+    </div>
   </div>
 </div>
 
+<style>
+  .land-item {
+    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+    color: white;
+    padding: 10px;
+    margin: 6px 0;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+  .land-item strong {
+    color: #fff;
+  }
+
+  @media (max-width: 768px) {
+    .col-md-4 {
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
+  }
+</style>
                   
 <!--End Of bulletPoint-->
               </div>
@@ -691,7 +661,7 @@ text-align: center;">>
         <div class="col-lg-4 offset-lg-4">
           <div class="section-heading text-center">
             <h6>| Contact Us</h6>
-            <h2>Get In Touch 91 8939677189</h2>
+            <h2> 91 8939677189</h2>
           </div>
         </div>
       </div>
